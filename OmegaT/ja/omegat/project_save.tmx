@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.0_0_9507:9510" segtype="paragraph" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+<!-- Alternative translations -->
+    <tu>
+      <prop type="file">base.cfg</prop>
+      <prop type="id">damage-type-name/acid</prop>
+      <tuv lang="EN-US">
+        <seg>Acid</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T081243Z" creationid="t.yarimizu" creationdate="20170131T081243Z">
+        <seg>酸ダメージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">base.cfg</prop>
+      <prop type="id">damage-type-name/electric</prop>
+      <tuv lang="EN-US">
+        <seg>Electric</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T081241Z" creationid="t.yarimizu" creationdate="20170131T081241Z">
+        <seg>電気</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">base.cfg</prop>
+      <prop type="id">damage-type-name/explosion</prop>
+      <tuv lang="EN-US">
+        <seg>Explosion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T081243Z" creationid="t.yarimizu" creationdate="20170131T081243Z">
+        <seg>爆発ダメージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">base.cfg</prop>
+      <prop type="id">damage-type-name/poison</prop>
+      <tuv lang="EN-US">
+        <seg>Poison</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T081244Z" creationid="t.yarimizu" creationdate="20170131T081244Z">
+        <seg>毒ダメージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">base.cfg</prop>
+      <prop type="id">entity-description/assembling-machine-1</prop>
+      <tuv lang="EN-US">
+        <seg>Crafts items that require up to 2 ingredients.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T081231Z" creationid="t.yarimizu" creationdate="20170131T081231Z">
+        <seg>2つまでの資材で作れるアイテムを製作します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">autoplace-control-names/bauxite-ore</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__bauxite-ore__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083557Z" creationid="t.yarimizu" creationdate="20170131T083557Z">
+        <seg>__ENTITY__bauxite-ore__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">autoplace-control-names/cobalt-ore</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__cobalt-ore__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083603Z" creationid="t.yarimizu" creationdate="20170131T083603Z">
+        <seg>__ENTITY__cobalt-ore__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">autoplace-control-names/gem-ore</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__gem-ore__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083610Z" creationid="t.yarimizu" creationdate="20170131T083610Z">
+        <seg>__ENTITY__gem-ore__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">autoplace-control-names/gold-ore</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__gold-ore__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083545Z" creationid="t.yarimizu" creationdate="20170131T083545Z">
+        <seg>__ENTITY__gold-ore__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">autoplace-control-names/ground-water</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__ground-water__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083612Z" creationid="t.yarimizu" creationdate="20170131T083612Z">
+        <seg>__ENTITY__ground-water__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">autoplace-control-names/lead-ore</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__lead-ore__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083547Z" creationid="t.yarimizu" creationdate="20170131T083547Z">
+        <seg>__ENTITY__lead-ore__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">autoplace-control-names/nickel-ore</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__nickel-ore__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083601Z" creationid="t.yarimizu" creationdate="20170131T083601Z">
+        <seg>__ENTITY__nickel-ore__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">autoplace-control-names/quartz</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__quartz__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083606Z" creationid="t.yarimizu" creationdate="20170131T083606Z">
+        <seg>__ENTITY__quartz__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">autoplace-control-names/rutile-ore</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__rutile-ore__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083559Z" creationid="t.yarimizu" creationdate="20170131T083559Z">
+        <seg>__ENTITY__rutile-ore__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">autoplace-control-names/silver-ore</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__silver-ore__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083549Z" creationid="t.yarimizu" creationdate="20170131T083549Z">
+        <seg>__ENTITY__silver-ore__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">autoplace-control-names/sulfur</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__sulfur__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083608Z" creationid="t.yarimizu" creationdate="20170131T083608Z">
+        <seg>__ENTITY__sulfur__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">autoplace-control-names/tin-ore</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__tin-ore__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083551Z" creationid="t.yarimizu" creationdate="20170131T083551Z">
+        <seg>__ENTITY__tin-ore__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">autoplace-control-names/tungsten-ore</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__tungsten-ore__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083553Z" creationid="t.yarimizu" creationdate="20170131T083553Z">
+        <seg>__ENTITY__tungsten-ore__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">autoplace-control-names/zinc-ore</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__zinc-ore__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083555Z" creationid="t.yarimizu" creationdate="20170131T083555Z">
+        <seg>__ENTITY__zinc-ore__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bauxite-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Bauxite (Aluminium ore)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083102Z" creationid="t.yarimizu" creationdate="20170131T083102Z">
+        <seg>アルミ鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">entity-name/cobalt-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Cobaltite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083116Z" creationid="t.yarimizu" creationdate="20170131T083116Z">
+        <seg>コバルト鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">entity-name/gem-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Gemstones</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T084827Z" creationid="t.yarimizu" creationdate="20170131T084749Z">
+        <seg>宝原石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">entity-name/gold-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Gold ore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T082956Z" creationid="t.yarimizu" creationdate="20170131T082956Z">
+        <seg>金鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">entity-name/ground-water</prop>
+      <tuv lang="EN-US">
+        <seg>Ground Water</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083404Z" creationid="t.yarimizu" creationdate="20170131T083404Z">
+        <seg>地下水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">entity-name/lead-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Galena (Lead ore)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083039Z" creationid="t.yarimizu" creationdate="20170131T083039Z">
+        <seg>鉛鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">entity-name/lithia-water</prop>
+      <tuv lang="EN-US">
+        <seg>Lithia Water</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083401Z" creationid="t.yarimizu" creationdate="20170131T083401Z">
+        <seg>リチア水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">entity-name/nickel-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Nickel ore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083110Z" creationid="t.yarimizu" creationdate="20170131T083110Z">
+        <seg>ニッケル鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">entity-name/quartz</prop>
+      <tuv lang="EN-US">
+        <seg>Quartz (Silicon ore)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083657Z" creationid="t.yarimizu" creationdate="20170131T083122Z">
+        <seg>シリコン鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">entity-name/rutile-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Rutile (Titanium ore)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083106Z" creationid="t.yarimizu" creationdate="20170131T083106Z">
+        <seg>チタン鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">entity-name/silver-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Silver ore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083045Z" creationid="t.yarimizu" creationdate="20170131T083045Z">
+        <seg>銀鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">entity-name/sulfur</prop>
+      <tuv lang="EN-US">
+        <seg>Sulfur</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083132Z" creationid="t.yarimizu" creationdate="20170131T083132Z">
+        <seg>硫黄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">entity-name/tin-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Tin ore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083050Z" creationid="t.yarimizu" creationdate="20170131T083050Z">
+        <seg>スズ鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">entity-name/tungsten-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Tungsten ore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083055Z" creationid="t.yarimizu" creationdate="20170131T083055Z">
+        <seg>タングステン鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">entity-name/zinc-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Zinc ore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083059Z" creationid="t.yarimizu" creationdate="20170131T083059Z">
+        <seg>亜鉛鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">fluid-name/lithia-water</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__lithia-water__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083543Z" creationid="t.yarimizu" creationdate="20170131T083543Z">
+        <seg>__ENTITY__lithia-water__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">item-name/amethyst-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Amethyst Ore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083534Z" creationid="t.yarimizu" creationdate="20170131T083534Z">
+        <seg>アメジスト原石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">item-name/bauxite-ore</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__bauxite-ore__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083425Z" creationid="t.yarimizu" creationdate="20170131T083425Z">
+        <seg>__ENTITY__bauxite-ore__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">item-name/cobalt-ore</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__cobalt-ore__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083432Z" creationid="t.yarimizu" creationdate="20170131T083432Z">
+        <seg>__ENTITY__cobalt-ore__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">item-name/diamond-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Diamond Ore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T084838Z" creationid="t.yarimizu" creationdate="20170131T083540Z">
+        <seg>ダイアモンド原石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">item-name/emerald-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Emerald Ore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083531Z" creationid="t.yarimizu" creationdate="20170131T083531Z">
+        <seg>エメラルド原石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">item-name/gem-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Unsorted gemstone ore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T084818Z" creationid="t.yarimizu" creationdate="20170131T084818Z">
+        <seg>未選別の宝原石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">item-name/gold-ore</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__gold-ore__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083413Z" creationid="t.yarimizu" creationdate="20170131T083413Z">
+        <seg>__ENTITY__gold-ore__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">item-name/lead-ore</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__lead-ore__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083416Z" creationid="t.yarimizu" creationdate="20170131T083416Z">
+        <seg>__ENTITY__lead-ore__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">item-name/nickel-ore</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__nickel-ore__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083430Z" creationid="t.yarimizu" creationdate="20170131T083430Z">
+        <seg>__ENTITY__nickel-ore__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">item-name/quartz</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__quartz__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083434Z" creationid="t.yarimizu" creationdate="20170131T083434Z">
+        <seg>__ENTITY__quartz__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">item-name/ruby-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Ruby Ore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083520Z" creationid="t.yarimizu" creationdate="20170131T083520Z">
+        <seg>ルビー原石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">item-name/rutile-ore</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__rutile-ore__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083428Z" creationid="t.yarimizu" creationdate="20170131T083428Z">
+        <seg>__ENTITY__rutile-ore__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">item-name/sapphire-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Sapphire Ore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083527Z" creationid="t.yarimizu" creationdate="20170131T083527Z">
+        <seg>サファイア原石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">item-name/silver-ore</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__silver-ore__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083418Z" creationid="t.yarimizu" creationdate="20170131T083418Z">
+        <seg>__ENTITY__silver-ore__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">item-name/tin-ore</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__tin-ore__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083420Z" creationid="t.yarimizu" creationdate="20170131T083420Z">
+        <seg>__ENTITY__tin-ore__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">item-name/topaz-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Topaz Ore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T084836Z" creationid="t.yarimizu" creationdate="20170131T083537Z">
+        <seg>トパーズ原石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">item-name/tungsten-ore</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__tungsten-ore__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083421Z" creationid="t.yarimizu" creationdate="20170131T083421Z">
+        <seg>__ENTITY__tungsten-ore__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobores_0.14.0.cfg</prop>
+      <prop type="id">item-name/zinc-ore</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__zinc-ore__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083423Z" creationid="t.yarimizu" creationdate="20170131T083423Z">
+        <seg>__ENTITY__zinc-ore__</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
