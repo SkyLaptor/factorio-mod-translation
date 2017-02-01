@@ -1,5 +1,5 @@
 # **Factorio Mod Translation**
-Use [OmegaT CATTool](http://www.omegat.org/en/omegat.html).  
+Use [OmegaT CAT Tool](http://www.omegat.org/en/omegat.html).  
 
 **Dir Structure:**
 * OmegaT
