@@ -6,6 +6,1976 @@
 <!-- Default translations -->
 <!-- Alternative translations -->
     <tu>
+      <prop type="file">CharcoalBurner_1.0.5.cfg</prop>
+      <prop type="id">fluid-name/creosote-oil =</prop>
+      <tuv lang="EN-US">
+        <seg>Creosote Oil</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T142912Z" creationid="user" creationdate="20170131T142912Z">
+        <seg>クレオソート油</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">CharcoalBurner_1.0.5.cfg</prop>
+      <prop type="id">item-description/charcoal-preparate =</prop>
+      <tuv lang="EN-US">
+        <seg>A preperation to the burning of charcoal</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T145525Z" creationid="user" creationdate="20170131T142740Z">
+        <seg>木炭に加工する前の事前処理を施した原木です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">CharcoalBurner_1.0.5.cfg</prop>
+      <prop type="id">item-description/creosote-antiseptic =</prop>
+      <tuv lang="EN-US">
+        <seg>Antiseptic medicine made of creosote (not FDA approved)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T143711Z" creationid="user" creationdate="20170131T143711Z">
+        <seg>クレオソートを原料とした消毒薬(FDA未承認)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">CharcoalBurner_1.0.5.cfg</prop>
+      <prop type="id">item-name/charcoal-preparate =</prop>
+      <tuv lang="EN-US">
+        <seg>Charcoal Preparate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T144834Z" creationid="user" creationdate="20170131T144834Z">
+        <seg>前処理済み原木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">CharcoalBurner_1.0.5.cfg</prop>
+      <prop type="id">item-name/creosote-antiseptic =</prop>
+      <tuv lang="EN-US">
+        <seg>Creosote Antiseptic</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T143633Z" creationid="user" creationdate="20170131T142852Z">
+        <seg>クレオソート消毒薬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">CharcoalBurner_1.0.5.cfg</prop>
+      <prop type="id">recipe-name/charcoal =</prop>
+      <tuv lang="EN-US">
+        <seg>Charcoal</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T143719Z" creationid="user" creationdate="20170131T143719Z">
+        <seg>木炭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">CharcoalBurner_1.0.5.cfg</prop>
+      <prop type="id">recipe-name/charcoal-complex =</prop>
+      <tuv lang="EN-US">
+        <seg>Improved Charcoal Creation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T145517Z" creationid="user" creationdate="20170131T143936Z">
+        <seg>発展的な木炭加工</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">CharcoalBurner_1.0.5.cfg</prop>
+      <prop type="id">recipe-name/charcoal-preparate =</prop>
+      <tuv lang="EN-US">
+        <seg>Charcoal Preparation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T144843Z" creationid="user" creationdate="20170131T144843Z">
+        <seg>前処理済み原木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">CharcoalBurner_1.0.5.cfg</prop>
+      <prop type="id">recipe-name/coal-coke =</prop>
+      <tuv lang="EN-US">
+        <seg>Coal Coke Burning</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T145348Z" creationid="user" creationdate="20170131T143832Z">
+        <seg>コークス製造</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">CharcoalBurner_1.0.5.cfg</prop>
+      <prop type="id">recipe-name/creosote-antiseptic =</prop>
+      <tuv lang="EN-US">
+        <seg>Creosote Antiseptic Medicine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T144451Z" creationid="user" creationdate="20170131T144451Z">
+        <seg>クレオソート医薬品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">CharcoalBurner_1.0.5.cfg</prop>
+      <prop type="id">recipe-name/impregnated-wood =</prop>
+      <tuv lang="EN-US">
+        <seg>Impregnated Wood</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T144400Z" creationid="user" creationdate="20170131T144400Z">
+        <seg>原木の防腐処理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">CharcoalBurner_1.0.5.cfg</prop>
+      <prop type="id">recipe-name/solid-fuel-from-creosote-oil =</prop>
+      <tuv lang="EN-US">
+        <seg>Solid Fuel From Creosote Oil</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T143538Z" creationid="user" creationdate="20170131T143538Z">
+        <seg>固形燃料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">CharcoalBurner_1.0.5.cfg</prop>
+      <prop type="id">technology-description/charcoal-complex =</prop>
+      <tuv lang="EN-US">
+        <seg>a more complex way of creating charcoal. this includes catching the creosote fumes for other uses and creating coal coke</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T145309Z" creationid="user" creationdate="20170131T145309Z">
+        <seg>より複雑な木炭加工技術です。これによりクレオソート油の精製と石炭コークスの製造が可能となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">CharcoalBurner_1.0.5.cfg</prop>
+      <prop type="id">technology-name/charcoal-complex =</prop>
+      <tuv lang="EN-US">
+        <seg>Complex Charcoal and Derivatives Processing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T145327Z" creationid="user" creationdate="20170131T145056Z">
+        <seg>複雑な木炭と副産物の加工処理技術</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">entity-name/storehouse-active-provider =</prop>
+      <tuv lang="EN-US">
+        <seg>Active Provider Storehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121556Z" creationid="user" creationdate="20170131T121556Z">
+        <seg>アクティブ供給保管庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">entity-name/storehouse-basic =</prop>
+      <tuv lang="EN-US">
+        <seg>Storehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121535Z" creationid="user" creationdate="20170131T121535Z">
+        <seg>保管庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">entity-name/storehouse-passive-provider =</prop>
+      <tuv lang="EN-US">
+        <seg>Passive Provider Storehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121547Z" creationid="user" creationdate="20170131T121547Z">
+        <seg>パッシブ供給保管庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">entity-name/storehouse-requester =</prop>
+      <tuv lang="EN-US">
+        <seg>Requester Storehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121600Z" creationid="user" creationdate="20170131T121600Z">
+        <seg>要求保管庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">entity-name/storehouse-smart =</prop>
+      <tuv lang="EN-US">
+        <seg>Smart Storehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121604Z" creationid="user" creationdate="20170131T121604Z">
+        <seg>スマート保管庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">entity-name/storehouse-storage =</prop>
+      <tuv lang="EN-US">
+        <seg>Storage Storehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121550Z" creationid="user" creationdate="20170131T121550Z">
+        <seg>貯蔵保管庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">entity-name/warehouse-active-provider =</prop>
+      <tuv lang="EN-US">
+        <seg>Active Provider Warehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121512Z" creationid="user" creationdate="20170131T121512Z">
+        <seg>アクティブ供給倉庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">entity-name/warehouse-basic =</prop>
+      <tuv lang="EN-US">
+        <seg>Warehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121439Z" creationid="user" creationdate="20170131T121439Z">
+        <seg>倉庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">entity-name/warehouse-passive-provider =</prop>
+      <tuv lang="EN-US">
+        <seg>Passive Provider Warehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121458Z" creationid="user" creationdate="20170131T121445Z">
+        <seg>パッシブ供給倉庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">entity-name/warehouse-requester =</prop>
+      <tuv lang="EN-US">
+        <seg>Requester Warehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121530Z" creationid="user" creationdate="20170131T121530Z">
+        <seg>要求倉庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">entity-name/warehouse-smart =</prop>
+      <tuv lang="EN-US">
+        <seg>Smart Warehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121532Z" creationid="user" creationdate="20170131T121532Z">
+        <seg>スマート倉庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">entity-name/warehouse-storage =</prop>
+      <tuv lang="EN-US">
+        <seg>Storage Warehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121454Z" creationid="user" creationdate="20170131T121454Z">
+        <seg>貯蔵倉庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">item-description/storehouse-active-provider =</prop>
+      <tuv lang="EN-US">
+        <seg>Active Provider Storehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121919Z" creationid="user" creationdate="20170131T121919Z">
+        <seg>アクティブ供給機能を持つ保管庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">item-description/storehouse-basic =</prop>
+      <tuv lang="EN-US">
+        <seg>Stores some items</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T122721Z" creationid="user" creationdate="20170131T121825Z">
+        <seg>多くのアイテムを保管できます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">item-description/storehouse-passive-provider =</prop>
+      <tuv lang="EN-US">
+        <seg>Passive Provider Storehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121858Z" creationid="user" creationdate="20170131T121852Z">
+        <seg>パッシブ供給機能を持つ保管庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">item-description/storehouse-requester =</prop>
+      <tuv lang="EN-US">
+        <seg>Requester Storehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121925Z" creationid="user" creationdate="20170131T121925Z">
+        <seg>要求機能を持つ保管庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">item-description/storehouse-smart =</prop>
+      <tuv lang="EN-US">
+        <seg>Smart Storehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121953Z" creationid="user" creationdate="20170131T121953Z">
+        <seg>スマート機能を持つ保管庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">item-description/storehouse-storage =</prop>
+      <tuv lang="EN-US">
+        <seg>Storage Storehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121911Z" creationid="user" creationdate="20170131T121911Z">
+        <seg>貯蔵機能を持つ保管庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">item-description/warehouse-active-provider =</prop>
+      <tuv lang="EN-US">
+        <seg>Active Provider Warehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121758Z" creationid="user" creationdate="20170131T121758Z">
+        <seg>アクティブ供給機能を持つ倉庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">item-description/warehouse-basic =</prop>
+      <tuv lang="EN-US">
+        <seg>Stores many many items</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T122724Z" creationid="user" creationdate="20170131T121637Z">
+        <seg>大量のアイテムを保管できます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">item-description/warehouse-passive-provider =</prop>
+      <tuv lang="EN-US">
+        <seg>Passive Provider Warehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121711Z" creationid="user" creationdate="20170131T121651Z">
+        <seg>パッシブ供給機能を持つ倉庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">item-description/warehouse-requester =</prop>
+      <tuv lang="EN-US">
+        <seg>Requester Warehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121804Z" creationid="user" creationdate="20170131T121804Z">
+        <seg>要求機能を持つ倉庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">item-description/warehouse-smart =</prop>
+      <tuv lang="EN-US">
+        <seg>Smart Warehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121810Z" creationid="user" creationdate="20170131T121810Z">
+        <seg>スマート機能を持つ倉庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">item-description/warehouse-storage =</prop>
+      <tuv lang="EN-US">
+        <seg>Storage Warehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121709Z" creationid="user" creationdate="20170131T121709Z">
+        <seg>貯蔵機能を持つ倉庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">item-name/storehouse-active-provider =</prop>
+      <tuv lang="EN-US">
+        <seg>Active Provider Storehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121429Z" creationid="user" creationdate="20170131T121429Z">
+        <seg>アクティブ供給保管庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">item-name/storehouse-basic =</prop>
+      <tuv lang="EN-US">
+        <seg>Storehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121407Z" creationid="user" creationdate="20170131T121407Z">
+        <seg>保管庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">item-name/storehouse-passive-provider =</prop>
+      <tuv lang="EN-US">
+        <seg>Passive Provider Storehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121416Z" creationid="user" creationdate="20170131T121416Z">
+        <seg>パッシブ供給保管庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">item-name/storehouse-requester =</prop>
+      <tuv lang="EN-US">
+        <seg>Requester Storehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121434Z" creationid="user" creationdate="20170131T121434Z">
+        <seg>要求保管庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">item-name/storehouse-smart =</prop>
+      <tuv lang="EN-US">
+        <seg>Smart Storehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121437Z" creationid="user" creationdate="20170131T121437Z">
+        <seg>スマート保管庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">item-name/storehouse-storage =</prop>
+      <tuv lang="EN-US">
+        <seg>Storage Storehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121420Z" creationid="user" creationdate="20170131T121420Z">
+        <seg>貯蔵保管庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">item-name/warehouse-active-provider =</prop>
+      <tuv lang="EN-US">
+        <seg>Active Provider Warehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121310Z" creationid="user" creationdate="20170131T121302Z">
+        <seg>アクティブ供給倉庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">item-name/warehouse-basic =</prop>
+      <tuv lang="EN-US">
+        <seg>Warehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121225Z" creationid="user" creationdate="20170131T121225Z">
+        <seg>倉庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">item-name/warehouse-passive-provider =</prop>
+      <tuv lang="EN-US">
+        <seg>Provider Warehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121249Z" creationid="user" creationdate="20170131T121249Z">
+        <seg>供給倉庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">item-name/warehouse-requester =</prop>
+      <tuv lang="EN-US">
+        <seg>Requester Warehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121305Z" creationid="user" creationdate="20170131T121305Z">
+        <seg>要求倉庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">item-name/warehouse-smart =</prop>
+      <tuv lang="EN-US">
+        <seg>Smart Warehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121331Z" creationid="user" creationdate="20170131T121331Z">
+        <seg>スマート倉庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">item-name/warehouse-storage =</prop>
+      <tuv lang="EN-US">
+        <seg>Storage Warehouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T121253Z" creationid="user" creationdate="20170131T121253Z">
+        <seg>貯蔵倉庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">technology-name/warehouse-logistics-research =</prop>
+      <tuv lang="EN-US">
+        <seg>Logistics Warehousing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T122032Z" creationid="user" creationdate="20170131T122032Z">
+        <seg>物流倉庫の建造</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">technology-name/warehouse-research =</prop>
+      <tuv lang="EN-US">
+        <seg>Warehousing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T122012Z" creationid="user" creationdate="20170131T121959Z">
+        <seg>倉庫の建造</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Warehousing_0.0.11.cfg</prop>
+      <prop type="id">technology-name/warehouse-smart-research =</prop>
+      <tuv lang="EN-US">
+        <seg>Smart Warehousing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T122037Z" creationid="user" creationdate="20170131T122037Z">
+        <seg>スマート倉庫の建造</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">entity-name/assembling-machine-4</prop>
+      <tuv lang="EN-US">
+        <seg>Assembling machine 4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134156Z" creationid="user" creationdate="20170131T134156Z">
+        <seg>組立機4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">entity-name/assembling-machine-5</prop>
+      <tuv lang="EN-US">
+        <seg>Assembling machine 5</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134157Z" creationid="user" creationdate="20170131T134157Z">
+        <seg>組立機5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">entity-name/assembling-machine-6</prop>
+      <tuv lang="EN-US">
+        <seg>Assembling machine 6</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134158Z" creationid="user" creationdate="20170131T134158Z">
+        <seg>組立機6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">entity-name/chemical-plant-2</prop>
+      <tuv lang="EN-US">
+        <seg>Chemical plant 2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134320Z" creationid="user" creationdate="20170131T134320Z">
+        <seg>化学プラント2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">entity-name/chemical-plant-3</prop>
+      <tuv lang="EN-US">
+        <seg>Chemical plant 3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134320Z" creationid="user" creationdate="20170131T134320Z">
+        <seg>化学プラント3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">entity-name/chemical-plant-4</prop>
+      <tuv lang="EN-US">
+        <seg>Chemical plant 4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134320Z" creationid="user" creationdate="20170131T134320Z">
+        <seg>化学プラント4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">entity-name/electric-chemical-mixing-furnace</prop>
+      <tuv lang="EN-US">
+        <seg>Electric multi-purpose furnace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134345Z" creationid="user" creationdate="20170131T134345Z">
+        <seg>電気式万能炉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">entity-name/electric-chemical-mixing-furnace-2</prop>
+      <tuv lang="EN-US">
+        <seg>Electric multi-purpose furnace MK2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134358Z" creationid="user" creationdate="20170131T134358Z">
+        <seg>電気式万能炉2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">entity-name/electric-furnace-2</prop>
+      <tuv lang="EN-US">
+        <seg>Electric furnace 2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134327Z" creationid="user" creationdate="20170131T134327Z">
+        <seg>電気炉2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">entity-name/electric-furnace-3</prop>
+      <tuv lang="EN-US">
+        <seg>Electric furnace 3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134330Z" creationid="user" creationdate="20170131T134330Z">
+        <seg>電気炉3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">entity-name/electrolyser-2</prop>
+      <tuv lang="EN-US">
+        <seg>Electrolyser 2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134323Z" creationid="user" creationdate="20170131T134323Z">
+        <seg>電解槽2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">entity-name/electrolyser-3</prop>
+      <tuv lang="EN-US">
+        <seg>Electrolyser 3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134324Z" creationid="user" creationdate="20170131T134324Z">
+        <seg>電解槽3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">entity-name/electrolyser-4</prop>
+      <tuv lang="EN-US">
+        <seg>Electrolyser 4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134324Z" creationid="user" creationdate="20170131T134324Z">
+        <seg>電解槽4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">entity-name/electronics-machine-1</prop>
+      <tuv lang="EN-US">
+        <seg>Electronics assembling machine 1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134230Z" creationid="user" creationdate="20170131T134225Z">
+        <seg>電子部品組立機1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">entity-name/electronics-machine-2</prop>
+      <tuv lang="EN-US">
+        <seg>Electronics assembling machine 2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134233Z" creationid="user" creationdate="20170131T134227Z">
+        <seg>電子部品組立機2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">entity-name/electronics-machine-3</prop>
+      <tuv lang="EN-US">
+        <seg>Electronics assembling machine 3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134239Z" creationid="user" creationdate="20170131T134239Z">
+        <seg>電子部品組立機3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">entity-name/oil-refinery-2</prop>
+      <tuv lang="EN-US">
+        <seg>Oil refinery 2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134316Z" creationid="user" creationdate="20170131T134316Z">
+        <seg>原油精製所2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">entity-name/oil-refinery-3</prop>
+      <tuv lang="EN-US">
+        <seg>Oil refinery 3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134317Z" creationid="user" creationdate="20170131T134317Z">
+        <seg>原油精製所3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">entity-name/oil-refinery-4</prop>
+      <tuv lang="EN-US">
+        <seg>Oil refinery 4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134318Z" creationid="user" creationdate="20170131T134318Z">
+        <seg>原油精製所4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">item-name/assembling-machine-4</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__assembling-machine-4__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134401Z" creationid="user" creationdate="20170131T134401Z">
+        <seg>__ENTITY__assembling-machine-4__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">item-name/assembling-machine-5</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__assembling-machine-5__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134758Z" creationid="user" creationdate="20170131T134758Z">
+        <seg>__ENTITY__assembling-machine-5__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">item-name/assembling-machine-6</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__assembling-machine-6__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134757Z" creationid="user" creationdate="20170131T134757Z">
+        <seg>__ENTITY__assembling-machine-6__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">item-name/chemical-plant-2</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__chemical-plant-2__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134433Z" creationid="user" creationdate="20170131T134433Z">
+        <seg>__ENTITY__chemical-plant-2__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">item-name/chemical-plant-3</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__chemical-plant-3__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134743Z" creationid="user" creationdate="20170131T134743Z">
+        <seg>__ENTITY__chemical-plant-3__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">item-name/electric-chemical-mixing-furnace</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__electric-chemical-mixing-furnace__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134455Z" creationid="user" creationdate="20170131T134455Z">
+        <seg>__ENTITY__electric-chemical-mixing-furnace__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">item-name/electric-chemical-mixing-furnace-2</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__electric-chemical-mixing-furnace-2__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134507Z" creationid="user" creationdate="20170131T134507Z">
+        <seg>__ENTITY__electric-chemical-mixing-furnace-2__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">item-name/electric-furnace-2</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__electric-furnace-2__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134448Z" creationid="user" creationdate="20170131T134448Z">
+        <seg>__ENTITY__electric-furnace-2__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">item-name/electrolyser-2</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__electrolyser-2__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134440Z" creationid="user" creationdate="20170131T134440Z">
+        <seg>__ENTITY__electrolyser-2__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">item-name/electrolyser-3</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__electrolyser-3__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134715Z" creationid="user" creationdate="20170131T134715Z">
+        <seg>__ENTITY__electrolyser-3__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">item-name/electrolyser-4</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__electrolyser-4__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134718Z" creationid="user" creationdate="20170131T134718Z">
+        <seg>__ENTITY__electrolyser-4__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">item-name/electronics-machine-1</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__electronics-machine-1__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134415Z" creationid="user" creationdate="20170131T134415Z">
+        <seg>__ENTITY__electronics-machine-1__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">item-name/electronics-machine-2</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__electronics-machine-2__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134753Z" creationid="user" creationdate="20170131T134753Z">
+        <seg>__ENTITY__electronics-machine-2__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">item-name/electronics-machine-3</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__electronics-machine-3__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134751Z" creationid="user" creationdate="20170131T134751Z">
+        <seg>__ENTITY__electronics-machine-3__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">item-name/oil-refinery-2</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__oil-refinery-2__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134423Z" creationid="user" creationdate="20170131T134423Z">
+        <seg>__ENTITY__oil-refinery-2__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">item-name/oil-refinery-3</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__oil-refinery-3__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134747Z" creationid="user" creationdate="20170131T134747Z">
+        <seg>__ENTITY__oil-refinery-3__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">item-name/oil-refinery-4</prop>
+      <tuv lang="EN-US">
+        <seg>__ENTITY__oil-refinery-4__</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134745Z" creationid="user" creationdate="20170131T134745Z">
+        <seg>__ENTITY__oil-refinery-4__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">technology-name/chemical-plant</prop>
+      <tuv lang="EN-US">
+        <seg>Chemical plant</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134606Z" creationid="user" creationdate="20170131T134606Z">
+        <seg>化学プラント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">technology-name/electrolyser</prop>
+      <tuv lang="EN-US">
+        <seg>Electrolyser</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134621Z" creationid="user" creationdate="20170131T134621Z">
+        <seg>電解槽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">technology-name/electronics-machine</prop>
+      <tuv lang="EN-US">
+        <seg>Electronics assembling machine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134635Z" creationid="user" creationdate="20170131T134545Z">
+        <seg>電子部品組立機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobassembly_0.14.0.cfg</prop>
+      <prop type="id">technology-name/multi-purpose-furnace</prop>
+      <tuv lang="EN-US">
+        <seg>Multi-purpose furnaces</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T134628Z" creationid="user" creationdate="20170131T134628Z">
+        <seg>万能炉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobelectronics_0.14.0.cfg</prop>
+      <prop type="id">fluid-name/ferric-chloride-solution</prop>
+      <tuv lang="EN-US">
+        <seg>Ferric chloride solution</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T133355Z" creationid="user" creationdate="20170131T133355Z">
+        <seg>塩化第二鉄溶液</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobelectronics_0.14.0.cfg</prop>
+      <prop type="id">item-group-name/bob-fluid-products</prop>
+      <tuv lang="EN-US">
+        <seg>Bob's Fluids</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T133414Z" creationid="user" creationdate="20170131T133414Z">
+        <seg>Bob's流体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobelectronics_0.14.0.cfg</prop>
+      <prop type="id">item-group-name/bob-intermediate-products</prop>
+      <tuv lang="EN-US">
+        <seg>Bob's Intermediate products</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T133411Z" creationid="user" creationdate="20170131T133411Z">
+        <seg>Bob's中間生産物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobelectronics_0.14.0.cfg</prop>
+      <prop type="id">item-group-name/bob-resource-products</prop>
+      <tuv lang="EN-US">
+        <seg>Bob's Materials</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T133413Z" creationid="user" creationdate="20170131T133413Z">
+        <seg>Bob's原料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobelectronics_0.14.0.cfg</prop>
+      <prop type="id">item-name/advanced-circuit</prop>
+      <tuv lang="EN-US">
+        <seg>Electronic circuit board</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T133334Z" creationid="user" creationdate="20170131T133334Z">
+        <seg>発展基板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobelectronics_0.14.0.cfg</prop>
+      <prop type="id">item-name/advanced-processing-unit</prop>
+      <tuv lang="EN-US">
+        <seg>Electronic Processing board</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T133350Z" creationid="user" creationdate="20170131T133350Z">
+        <seg>発展制御基板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobelectronics_0.14.0.cfg</prop>
+      <prop type="id">item-name/basic-circuit-board</prop>
+      <tuv lang="EN-US">
+        <seg>Basic circuit board</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T133317Z" creationid="user" creationdate="20170131T133303Z">
+        <seg>簡易基板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobelectronics_0.14.0.cfg</prop>
+      <prop type="id">item-name/basic-electronic-components</prop>
+      <tuv lang="EN-US">
+        <seg>Basic electronic components</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T133249Z" creationid="user" creationdate="20170131T133249Z">
+        <seg>抵抗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobelectronics_0.14.0.cfg</prop>
+      <prop type="id">item-name/carbon</prop>
+      <tuv lang="EN-US">
+        <seg>Carbon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T133207Z" creationid="user" creationdate="20170131T133207Z">
+        <seg>炭素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobelectronics_0.14.0.cfg</prop>
+      <prop type="id">item-name/circuit-board</prop>
+      <tuv lang="EN-US">
+        <seg>Circuit board</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T133306Z" creationid="user" creationdate="20170131T133306Z">
+        <seg>回路基板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobelectronics_0.14.0.cfg</prop>
+      <prop type="id">item-name/electronic-circuit</prop>
+      <tuv lang="EN-US">
+        <seg>Basic electronic board</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T133333Z" creationid="user" creationdate="20170131T133333Z">
+        <seg>電子基板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobelectronics_0.14.0.cfg</prop>
+      <prop type="id">item-name/electronic-components</prop>
+      <tuv lang="EN-US">
+        <seg>Transistors</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T133250Z" creationid="user" creationdate="20170131T133250Z">
+        <seg>トランジスタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobelectronics_0.14.0.cfg</prop>
+      <prop type="id">item-name/fibreglass-board</prop>
+      <tuv lang="EN-US">
+        <seg>Fibreglass board</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T133255Z" creationid="user" creationdate="20170131T133255Z">
+        <seg>ガラスファイバ基板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobelectronics_0.14.0.cfg</prop>
+      <prop type="id">item-name/gilded-copper-cable</prop>
+      <tuv lang="EN-US">
+        <seg>Gilded copper wire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T133230Z" creationid="user" creationdate="20170131T133230Z">
+        <seg>金メッキ銅線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobelectronics_0.14.0.cfg</prop>
+      <prop type="id">item-name/insulated-cable</prop>
+      <tuv lang="EN-US">
+        <seg>Insulated wire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T133244Z" creationid="user" creationdate="20170131T133219Z">
+        <seg>絶縁ケーブル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobelectronics_0.14.0.cfg</prop>
+      <prop type="id">item-name/intergrated-electronics</prop>
+      <tuv lang="EN-US">
+        <seg>Integrated electronics</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T133251Z" creationid="user" creationdate="20170131T133251Z">
+        <seg>IC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobelectronics_0.14.0.cfg</prop>
+      <prop type="id">item-name/multi-layer-circuit-board</prop>
+      <tuv lang="EN-US">
+        <seg>Multi-layer circuit board</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T133330Z" creationid="user" creationdate="20170131T133330Z">
+        <seg>積層基板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobelectronics_0.14.0.cfg</prop>
+      <prop type="id">item-name/phenolic-board</prop>
+      <tuv lang="EN-US">
+        <seg>Phenolic board</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T133254Z" creationid="user" creationdate="20170131T133254Z">
+        <seg>フェノール基板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobelectronics_0.14.0.cfg</prop>
+      <prop type="id">item-name/processing-electronics</prop>
+      <tuv lang="EN-US">
+        <seg>CPUs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T133252Z" creationid="user" creationdate="20170131T133252Z">
+        <seg>CPU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobelectronics_0.14.0.cfg</prop>
+      <prop type="id">item-name/processing-unit</prop>
+      <tuv lang="EN-US">
+        <seg>Electronic logic board</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T133338Z" creationid="user" creationdate="20170131T133338Z">
+        <seg>制御基板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobelectronics_0.14.0.cfg</prop>
+      <prop type="id">item-name/resin</prop>
+      <tuv lang="EN-US">
+        <seg>Resin</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T133207Z" creationid="user" creationdate="20170131T133207Z">
+        <seg>樹脂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobelectronics_0.14.0.cfg</prop>
+      <prop type="id">item-name/rubber</prop>
+      <tuv lang="EN-US">
+        <seg>Rubber</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T133208Z" creationid="user" creationdate="20170131T133208Z">
+        <seg>ゴム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobelectronics_0.14.0.cfg</prop>
+      <prop type="id">item-name/solder</prop>
+      <tuv lang="EN-US">
+        <seg>Solder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T133247Z" creationid="user" creationdate="20170131T133247Z">
+        <seg>ハンダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobelectronics_0.14.0.cfg</prop>
+      <prop type="id">item-name/solder-alloy</prop>
+      <tuv lang="EN-US">
+        <seg>Solder plate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T133204Z" creationid="user" creationdate="20170131T133142Z">
+        <seg>ハンダプレート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobelectronics_0.14.0.cfg</prop>
+      <prop type="id">item-name/superior-circuit-board</prop>
+      <tuv lang="EN-US">
+        <seg>Superior circuit board</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T133321Z" creationid="user" creationdate="20170131T133321Z">
+        <seg>上位回路基板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobelectronics_0.14.0.cfg</prop>
+      <prop type="id">item-name/synthetic-wood</prop>
+      <tuv lang="EN-US">
+        <seg>Synthetic wood</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T133209Z" creationid="user" creationdate="20170131T133209Z">
+        <seg>合成木材</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobelectronics_0.14.0.cfg</prop>
+      <prop type="id">item-name/tinned-copper-cable</prop>
+      <tuv lang="EN-US">
+        <seg>Tinned copper wire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T133211Z" creationid="user" creationdate="20170131T133211Z">
+        <seg>スズメッキ銅線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobelectronics_0.14.0.cfg</prop>
+      <prop type="id">item-name/wooden-board</prop>
+      <tuv lang="EN-US">
+        <seg>Wooden board</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T133253Z" creationid="user" creationdate="20170131T133253Z">
+        <seg>木製基板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobelectronics_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/bob-oil-processing</prop>
+      <tuv lang="EN-US">
+        <seg>Crude oil processing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T133406Z" creationid="user" creationdate="20170131T133406Z">
+        <seg>石油加工</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobelectronics_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/coal-cracking</prop>
+      <tuv lang="EN-US">
+        <seg>Coal cracking to Heavy oil</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T133357Z" creationid="user" creationdate="20170131T133357Z">
+        <seg>石炭を重油に分解</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">damage-type-name/bob-pierce</prop>
+      <tuv lang="EN-US">
+        <seg>Pierce</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140056Z" creationid="user" creationdate="20170131T140056Z">
+        <seg>貫通</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/big-worm-corpse</prop>
+      <tuv lang="EN-US">
+        <seg>Big acid worm corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140026Z" creationid="user" creationdate="20170131T140026Z">
+        <seg>ビッグアシッドワームの死骸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/big-worm-turret</prop>
+      <tuv lang="EN-US">
+        <seg>Big acid worm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140025Z" creationid="user" creationdate="20170131T140025Z">
+        <seg>ビッグアシッドワーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-behemoth-biter</prop>
+      <tuv lang="EN-US">
+        <seg>Badass behemoth biter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140008Z" creationid="user" creationdate="20170131T140008Z">
+        <seg>バッダスベヒーモスバイター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-behemoth-biter-corpse</prop>
+      <tuv lang="EN-US">
+        <seg>Badass behemoth biter corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140009Z" creationid="user" creationdate="20170131T140009Z">
+        <seg>バッダスベヒーモスバイターの死骸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-behemoth-spitter</prop>
+      <tuv lang="EN-US">
+        <seg>Badass behemoth spitter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140021Z" creationid="user" creationdate="20170131T140021Z">
+        <seg>バッダスベヒーモススピッター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-behemoth-spitter-corpse</prop>
+      <tuv lang="EN-US">
+        <seg>Badass behemoth spitter corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140021Z" creationid="user" creationdate="20170131T140021Z">
+        <seg>バッダスベヒーモススピッターの死骸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-behemoth-worm-corpse</prop>
+      <tuv lang="EN-US">
+        <seg>Behemoth worm corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140030Z" creationid="user" creationdate="20170131T140030Z">
+        <seg>ベヒーモスワームの死骸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-behemoth-worm-turret</prop>
+      <tuv lang="EN-US">
+        <seg>Behemoth worm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140029Z" creationid="user" creationdate="20170131T140029Z">
+        <seg>ベヒーモスワーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-big-electric-spitter</prop>
+      <tuv lang="EN-US">
+        <seg>Big electric spitter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140014Z" creationid="user" creationdate="20170131T140014Z">
+        <seg>ビッグエレクトリックスピッター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-big-electric-spitter-corpse</prop>
+      <tuv lang="EN-US">
+        <seg>Big electric spitter corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140015Z" creationid="user" creationdate="20170131T140015Z">
+        <seg>ビッグエレクトリックスピッターの死骸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-big-electric-worm-corpse</prop>
+      <tuv lang="EN-US">
+        <seg>Big electric worm corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140025Z" creationid="user" creationdate="20170131T140025Z">
+        <seg>ビッグエレクトリックワームの死骸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-big-electric-worm-turret</prop>
+      <tuv lang="EN-US">
+        <seg>Big electric worm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140024Z" creationid="user" creationdate="20170131T140024Z">
+        <seg>ビッグエレクトリックワーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-big-explosive-worm-corpse</prop>
+      <tuv lang="EN-US">
+        <seg>Big explosive worm corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140027Z" creationid="user" creationdate="20170131T140027Z">
+        <seg>ビッグエクスプローシブワームの死骸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-big-explosive-worm-turret</prop>
+      <tuv lang="EN-US">
+        <seg>Big explosive worm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140026Z" creationid="user" creationdate="20170131T140026Z">
+        <seg>ビッグエクスプローシブワーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-big-fire-worm-corpse</prop>
+      <tuv lang="EN-US">
+        <seg>Big fire worm corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140027Z" creationid="user" creationdate="20170131T140027Z">
+        <seg>ビッグファイアワームの死骸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-big-fire-worm-turret</prop>
+      <tuv lang="EN-US">
+        <seg>Big fire worm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140027Z" creationid="user" creationdate="20170131T140027Z">
+        <seg>ビッグファイアワーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-big-piercing-biter</prop>
+      <tuv lang="EN-US">
+        <seg>Big piercing biter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T135902Z" creationid="user" creationdate="20170131T135902Z">
+        <seg>ビッグピアシングバイター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-big-piercing-biter-corpse</prop>
+      <tuv lang="EN-US">
+        <seg>Big piercing biter corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T135921Z" creationid="user" creationdate="20170131T135921Z">
+        <seg>ビッグピアシングバイターの死骸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-big-piercing-worm-corpse</prop>
+      <tuv lang="EN-US">
+        <seg>Big piercing worm corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140024Z" creationid="user" creationdate="20170131T140024Z">
+        <seg>ビッグピアシングワームの死骸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-big-piercing-worm-turret</prop>
+      <tuv lang="EN-US">
+        <seg>Big piercing worm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140023Z" creationid="user" creationdate="20170131T140023Z">
+        <seg>ビッグピアシングワーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-big-poison-worm-corpse</prop>
+      <tuv lang="EN-US">
+        <seg>Big poison worm corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140028Z" creationid="user" creationdate="20170131T140028Z">
+        <seg>ビッグポイズンワームの死骸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-big-poison-worm-turret</prop>
+      <tuv lang="EN-US">
+        <seg>Big poison worm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140028Z" creationid="user" creationdate="20170131T140028Z">
+        <seg>ビッグポイズンワーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-biter-spawner</prop>
+      <tuv lang="EN-US">
+        <seg>Elemental biter Spawner</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T135859Z" creationid="user" creationdate="20170131T135859Z">
+        <seg>エレメンタルバイターの巣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-biter-spawner-corpse</prop>
+      <tuv lang="EN-US">
+        <seg>Elemental biter spawner corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T135901Z" creationid="user" creationdate="20170131T135901Z">
+        <seg>エレメンタルバイターの巣の残骸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-giant-fire-biter</prop>
+      <tuv lang="EN-US">
+        <seg>Giant fiery biter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T135959Z" creationid="user" creationdate="20170131T135959Z">
+        <seg>ジャイアントファイアバイター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-giant-fire-biter-corpse</prop>
+      <tuv lang="EN-US">
+        <seg>Giant fiery biter corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140005Z" creationid="user" creationdate="20170131T140005Z">
+        <seg>ジャイアントファイアバイターの死骸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-giant-fire-spitter</prop>
+      <tuv lang="EN-US">
+        <seg>Giant fire spitter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140017Z" creationid="user" creationdate="20170131T140017Z">
+        <seg>ジャイアントファイアスピッター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-giant-fire-spitter-corpse</prop>
+      <tuv lang="EN-US">
+        <seg>Giant fire spitter corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140018Z" creationid="user" creationdate="20170131T140018Z">
+        <seg>ジャイアントファイアスピッターの死骸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-giant-poison-biter</prop>
+      <tuv lang="EN-US">
+        <seg>Giant poisonous biter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T135947Z" creationid="user" creationdate="20170131T135947Z">
+        <seg>ジャイアントポイズンバイター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-giant-poison-biter-corpse</prop>
+      <tuv lang="EN-US">
+        <seg>Giant poisonous biter corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T135951Z" creationid="user" creationdate="20170131T135951Z">
+        <seg>ジャイアントポイズンバイターの死骸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-giant-poison-spitter</prop>
+      <tuv lang="EN-US">
+        <seg>Giant poison spitter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140018Z" creationid="user" creationdate="20170131T140018Z">
+        <seg>ジャイアントポイズンスピッター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-giant-poison-spitter-corpse</prop>
+      <tuv lang="EN-US">
+        <seg>Giant poison spitter corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140020Z" creationid="user" creationdate="20170131T140020Z">
+        <seg>ジャイアントポイズンスピッターの死骸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-giant-worm-corpse</prop>
+      <tuv lang="EN-US">
+        <seg>Giant worm corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140028Z" creationid="user" creationdate="20170131T140028Z">
+        <seg>ジャイアントワームの死骸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-giant-worm-turret</prop>
+      <tuv lang="EN-US">
+        <seg>Giant worm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140028Z" creationid="user" creationdate="20170131T140028Z">
+        <seg>ジャイアントワーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-huge-acid-biter</prop>
+      <tuv lang="EN-US">
+        <seg>Huge acidic biter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T135931Z" creationid="user" creationdate="20170131T135923Z">
+        <seg>ヒュージアシッドバイター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-huge-acid-biter-corpse</prop>
+      <tuv lang="EN-US">
+        <seg>Huge acidic biter corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T135935Z" creationid="user" creationdate="20170131T135924Z">
+        <seg>ヒュージアシッドバイターの死骸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-huge-acid-spitter</prop>
+      <tuv lang="EN-US">
+        <seg>Huge acid spitter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140017Z" creationid="user" creationdate="20170131T140017Z">
+        <seg>ヒュージアシッドスピッター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-huge-acid-spitter-corpse</prop>
+      <tuv lang="EN-US">
+        <seg>Huge acid spitter corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140017Z" creationid="user" creationdate="20170131T140017Z">
+        <seg>ヒュージアシッドスピッターの死骸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-huge-explosive-biter</prop>
+      <tuv lang="EN-US">
+        <seg>Huge explosive biter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T135939Z" creationid="user" creationdate="20170131T135939Z">
+        <seg>ヒュージエクスプローシブバイター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-huge-explosive-biter-corpse</prop>
+      <tuv lang="EN-US">
+        <seg>Huge explosive biter corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T135940Z" creationid="user" creationdate="20170131T135940Z">
+        <seg>ヒュージエクスプローシブバイターの死骸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-huge-explosive-spitter</prop>
+      <tuv lang="EN-US">
+        <seg>Huge explosive spitter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140016Z" creationid="user" creationdate="20170131T140016Z">
+        <seg>ヒュージエクスプローシブスピッター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-huge-explosive-spitter-corpse</prop>
+      <tuv lang="EN-US">
+        <seg>Huge explosive spitter corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140016Z" creationid="user" creationdate="20170131T140016Z">
+        <seg>ヒュージエクスプローシブスピッターの死骸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-leviathan-biter</prop>
+      <tuv lang="EN-US">
+        <seg>Leviathan biter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140010Z" creationid="user" creationdate="20170131T140010Z">
+        <seg>リヴァイアサンバイター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-leviathan-biter-corpse</prop>
+      <tuv lang="EN-US">
+        <seg>Leviathan biter corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140011Z" creationid="user" creationdate="20170131T140011Z">
+        <seg>リヴァイアサンバイターの死骸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-leviathan-spitter</prop>
+      <tuv lang="EN-US">
+        <seg>Leviathan spitter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140022Z" creationid="user" creationdate="20170131T140022Z">
+        <seg>リヴァイアサンスピッター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-leviathan-spitter-corpse</prop>
+      <tuv lang="EN-US">
+        <seg>Leviathan spitter corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140022Z" creationid="user" creationdate="20170131T140022Z">
+        <seg>リヴァイアサンスピッターの死骸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-spitter-spawner</prop>
+      <tuv lang="EN-US">
+        <seg>Elemental spitter spawner</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T135902Z" creationid="user" creationdate="20170131T135902Z">
+        <seg>エレメンタルスピッターの巣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-spitter-spawner-corpse</prop>
+      <tuv lang="EN-US">
+        <seg>Elemental spitter spawner corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T135902Z" creationid="user" creationdate="20170131T135902Z">
+        <seg>エレメンタルスピッターの巣の残骸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-titan-biter</prop>
+      <tuv lang="EN-US">
+        <seg>Titan biter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140006Z" creationid="user" creationdate="20170131T140006Z">
+        <seg>タイタンバイター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-titan-biter-corpse</prop>
+      <tuv lang="EN-US">
+        <seg>Titan biter corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140007Z" creationid="user" creationdate="20170131T140007Z">
+        <seg>タイタンバイターの死骸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-titan-spitter</prop>
+      <tuv lang="EN-US">
+        <seg>Titan spitter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140020Z" creationid="user" creationdate="20170131T140020Z">
+        <seg>タイタンスピッター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-titan-spitter-corpse</prop>
+      <tuv lang="EN-US">
+        <seg>Titan spitter corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140021Z" creationid="user" creationdate="20170131T140021Z">
+        <seg>タイタンスピッターの死骸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">item-name/alien-artifact-blue</prop>
+      <tuv lang="EN-US">
+        <seg>Blue alien artifact</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T135813Z" creationid="user" creationdate="20170131T135813Z">
+        <seg>ブルーエイリアンアーティファクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">item-name/alien-artifact-green</prop>
+      <tuv lang="EN-US">
+        <seg>Green alien artifact</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T135813Z" creationid="user" creationdate="20170131T135813Z">
+        <seg>グリーンエイリアンアーティファクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">item-name/alien-artifact-orange</prop>
+      <tuv lang="EN-US">
+        <seg>Orange alien artifact</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T135805Z" creationid="user" creationdate="20170131T135805Z">
+        <seg>オレンジエイリアンアーティファクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">item-name/alien-artifact-purple</prop>
+      <tuv lang="EN-US">
+        <seg>Purple alien artifact</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T135814Z" creationid="user" creationdate="20170131T135814Z">
+        <seg>パープルエイリアンアーティファクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">item-name/alien-artifact-red</prop>
+      <tuv lang="EN-US">
+        <seg>Red alien artifact</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T135811Z" creationid="user" creationdate="20170131T135811Z">
+        <seg>レッドエイリアンアーティファクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">item-name/alien-artifact-yellow</prop>
+      <tuv lang="EN-US">
+        <seg>Yellow alien artifact</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T135812Z" creationid="user" creationdate="20170131T135812Z">
+        <seg>イエローエイリアンアーティファクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">item-name/small-alien-artifact</prop>
+      <tuv lang="EN-US">
+        <seg>Small alien artifact</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T135825Z" creationid="user" creationdate="20170131T135825Z">
+        <seg>エイリアンアーティファクト(小)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">item-name/small-alien-artifact-blue</prop>
+      <tuv lang="EN-US">
+        <seg>Small blue alien artifact</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T135851Z" creationid="user" creationdate="20170131T135851Z">
+        <seg>ブルーエイリアンアーティファクト(小)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">item-name/small-alien-artifact-green</prop>
+      <tuv lang="EN-US">
+        <seg>Small green alien artifact</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T135848Z" creationid="user" creationdate="20170131T135848Z">
+        <seg>グリーンエイリアンアーティファクト(小)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">item-name/small-alien-artifact-orange</prop>
+      <tuv lang="EN-US">
+        <seg>Small orange alien artifact</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T135841Z" creationid="user" creationdate="20170131T135841Z">
+        <seg>オレンジエイリアンアーティファクト(小)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">item-name/small-alien-artifact-purple</prop>
+      <tuv lang="EN-US">
+        <seg>Small purple alien artifact</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T135854Z" creationid="user" creationdate="20170131T135854Z">
+        <seg>パープルエイリアンアーティファクト(小)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">item-name/small-alien-artifact-red</prop>
+      <tuv lang="EN-US">
+        <seg>Small red alien artifact</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T135836Z" creationid="user" creationdate="20170131T135827Z">
+        <seg>レッドエイリアンアーティファクト(小)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobenemies_0.14.0.cfg</prop>
+      <prop type="id">item-name/small-alien-artifact-yellow</prop>
+      <tuv lang="EN-US">
+        <seg>Small yellow alien artifact</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T135844Z" creationid="user" creationdate="20170131T135844Z">
+        <seg>イエローエイリアンアーティファクト(小)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobgreenhouse_0.14.0.cfg</prop>
+      <prop type="id">entity-name/bob-greenhouse</prop>
+      <tuv lang="EN-US">
+        <seg>Greenhouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140706Z" creationid="user" creationdate="20170131T140706Z">
+        <seg>温室</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobgreenhouse_0.14.0.cfg</prop>
+      <prop type="id">item-name/bob-greenhouse</prop>
+      <tuv lang="EN-US">
+        <seg>Greenhouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140641Z" creationid="user" creationdate="20170131T140641Z">
+        <seg>温室</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobgreenhouse_0.14.0.cfg</prop>
+      <prop type="id">item-name/fertiliser</prop>
+      <tuv lang="EN-US">
+        <seg>Fertiliser</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140642Z" creationid="user" creationdate="20170131T140642Z">
+        <seg>肥料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobgreenhouse_0.14.0.cfg</prop>
+      <prop type="id">item-name/seedling</prop>
+      <tuv lang="EN-US">
+        <seg>Seedling</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140643Z" creationid="user" creationdate="20170131T140643Z">
+        <seg>苗木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobgreenhouse_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/bob-advanced-greenhouse-cycle</prop>
+      <tuv lang="EN-US">
+        <seg>Grow trees with Fertiliser</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140705Z" creationid="user" creationdate="20170131T140650Z">
+        <seg>木を育てる(肥料使用)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobgreenhouse_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/bob-basic-greenhouse-cycle</prop>
+      <tuv lang="EN-US">
+        <seg>Grow trees</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140654Z" creationid="user" creationdate="20170131T140654Z">
+        <seg>木を育てる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobgreenhouse_0.14.0.cfg</prop>
+      <prop type="id">technology-name/bob-fertiliser</prop>
+      <tuv lang="EN-US">
+        <seg>Fertiliser</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140708Z" creationid="user" creationdate="20170131T140708Z">
+        <seg>肥料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobgreenhouse_0.14.0.cfg</prop>
+      <prop type="id">technology-name/bob-greenhouse</prop>
+      <tuv lang="EN-US">
+        <seg>Greenhouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T140706Z" creationid="user" creationdate="20170131T140706Z">
+        <seg>温室</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">bobores_0.14.0.cfg</prop>
       <prop type="id">autoplace-control-names/bauxite-ore</prop>
       <tuv lang="EN-US">
@@ -171,8 +2141,8 @@
       <tuv lang="EN-US">
         <seg>Gemstones</seg>
       </tuv>
-      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T084827Z" creationid="t.yarimizu" creationdate="20170131T084749Z">
-        <seg>宝原石</seg>
+      <tuv lang="JA" changeid="user" changedate="20170131T124044Z" creationid="t.yarimizu" creationdate="20170131T084749Z">
+        <seg>宝石の原石</seg>
       </tuv>
     </tu>
     <tu>
@@ -361,8 +2331,8 @@
       <tuv lang="EN-US">
         <seg>Unsorted gemstone ore</seg>
       </tuv>
-      <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T084818Z" creationid="t.yarimizu" creationdate="20170131T084818Z">
-        <seg>未選別の宝原石</seg>
+      <tuv lang="JA" changeid="user" changedate="20170131T124052Z" creationid="t.yarimizu" creationdate="20170131T084818Z">
+        <seg>未選別の宝石の原石</seg>
       </tuv>
     </tu>
     <tu>
@@ -483,6 +2453,2742 @@
       </tuv>
       <tuv lang="JA" changeid="t.yarimizu" changedate="20170131T083423Z" creationid="t.yarimizu" creationdate="20170131T083423Z">
         <seg>__ENTITY__zinc-ore__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">entity-name/air-pump</prop>
+      <tuv lang="EN-US">
+        <seg>Compressor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131839Z" creationid="user" creationdate="20170131T131839Z">
+        <seg>コンプレッサー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">entity-name/air-pump-2</prop>
+      <tuv lang="EN-US">
+        <seg>Compressor MK2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131842Z" creationid="user" creationdate="20170131T131842Z">
+        <seg>コンプレッサー MK2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">entity-name/air-pump-3</prop>
+      <tuv lang="EN-US">
+        <seg>Compressor MK3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131842Z" creationid="user" creationdate="20170131T131842Z">
+        <seg>コンプレッサー MK3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">entity-name/air-pump-4</prop>
+      <tuv lang="EN-US">
+        <seg>Compressor MK4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131842Z" creationid="user" creationdate="20170131T131842Z">
+        <seg>コンプレッサー MK4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">entity-name/chemical-boiler</prop>
+      <tuv lang="EN-US">
+        <seg>Chemical furnace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131832Z" creationid="user" creationdate="20170131T131832Z">
+        <seg>化学炉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">entity-name/chemical-furnace</prop>
+      <tuv lang="EN-US">
+        <seg>Electric Chemical furnace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131836Z" creationid="user" creationdate="20170131T131836Z">
+        <seg>電気式化学炉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">entity-name/electric-mixing-furnace</prop>
+      <tuv lang="EN-US">
+        <seg>Electric Metal mixing furnace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131754Z" creationid="user" creationdate="20170131T131740Z">
+        <seg>電気式金属混合炉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">entity-name/electrolyser</prop>
+      <tuv lang="EN-US">
+        <seg>Electrolyser</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131737Z" creationid="user" creationdate="20170131T131737Z">
+        <seg>電解槽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">entity-name/mixing-furnace</prop>
+      <tuv lang="EN-US">
+        <seg>Metal mixing furnace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131744Z" creationid="user" creationdate="20170131T131737Z">
+        <seg>金属混合炉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">entity-name/void-pump</prop>
+      <tuv lang="EN-US">
+        <seg>Gas venting pump</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131843Z" creationid="user" creationdate="20170131T131843Z">
+        <seg>ガス抜きポンプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">entity-name/water-pump</prop>
+      <tuv lang="EN-US">
+        <seg>Pump</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131842Z" creationid="user" creationdate="20170131T131842Z">
+        <seg>ポンプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">entity-name/water-pump-2</prop>
+      <tuv lang="EN-US">
+        <seg>Pump MK2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131843Z" creationid="user" creationdate="20170131T131843Z">
+        <seg>ポンプ MK2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">entity-name/water-pump-3</prop>
+      <tuv lang="EN-US">
+        <seg>Pump MK3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131843Z" creationid="user" creationdate="20170131T131843Z">
+        <seg>ポンプ MK3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">entity-name/water-pump-4</prop>
+      <tuv lang="EN-US">
+        <seg>Pump MK4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131843Z" creationid="user" creationdate="20170131T131843Z">
+        <seg>ポンプ MK4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">fluid-name/alien-acid</prop>
+      <tuv lang="EN-US">
+        <seg>Alien acid fluid</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131516Z" creationid="user" creationdate="20170131T131508Z">
+        <seg>エイリアンの強酸液</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">fluid-name/alien-explosive</prop>
+      <tuv lang="EN-US">
+        <seg>Alien explosive fluid</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131518Z" creationid="user" creationdate="20170131T131518Z">
+        <seg>エイリアンの爆液</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">fluid-name/alien-fire</prop>
+      <tuv lang="EN-US">
+        <seg>Alien flame fluid</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131519Z" creationid="user" creationdate="20170131T131519Z">
+        <seg>エイリアンの炎液</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">fluid-name/alien-poison</prop>
+      <tuv lang="EN-US">
+        <seg>Alien poison fluid</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131509Z" creationid="user" creationdate="20170131T131509Z">
+        <seg>エイリアンの毒液</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">fluid-name/chlorine</prop>
+      <tuv lang="EN-US">
+        <seg>Chlorine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131450Z" creationid="user" creationdate="20170131T131450Z">
+        <seg>塩素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">fluid-name/ferric-chloride-solution</prop>
+      <tuv lang="EN-US">
+        <seg>Ferric chloride solution</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131502Z" creationid="user" creationdate="20170131T131502Z">
+        <seg>塩化第二鉄溶液</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">fluid-name/hydrogen</prop>
+      <tuv lang="EN-US">
+        <seg>Hydrogen</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131449Z" creationid="user" creationdate="20170131T131449Z">
+        <seg>水素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">fluid-name/hydrogen-chloride</prop>
+      <tuv lang="EN-US">
+        <seg>Hydrogen chloride</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131451Z" creationid="user" creationdate="20170131T131451Z">
+        <seg>塩化水素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">fluid-name/liquid-air</prop>
+      <tuv lang="EN-US">
+        <seg>Compressed air</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131450Z" creationid="user" creationdate="20170131T131450Z">
+        <seg>圧縮空気</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">fluid-name/liquid-fuel</prop>
+      <tuv lang="EN-US">
+        <seg>Liquid fuel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131507Z" creationid="user" creationdate="20170131T131507Z">
+        <seg>液体燃料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">fluid-name/lithia-water</prop>
+      <tuv lang="EN-US">
+        <seg>Lithia Water</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131508Z" creationid="user" creationdate="20170131T131508Z">
+        <seg>リチア水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">fluid-name/nitric-acid</prop>
+      <tuv lang="EN-US">
+        <seg>Nitric acid</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131459Z" creationid="user" creationdate="20170131T131459Z">
+        <seg>硝酸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">fluid-name/nitrogen</prop>
+      <tuv lang="EN-US">
+        <seg>Nitrogen</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131449Z" creationid="user" creationdate="20170131T131449Z">
+        <seg>窒素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">fluid-name/nitrogen-dioxide</prop>
+      <tuv lang="EN-US">
+        <seg>Nitrogen dioxide</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131454Z" creationid="user" creationdate="20170131T131454Z">
+        <seg>二酸化窒素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">fluid-name/oxygen</prop>
+      <tuv lang="EN-US">
+        <seg>Oxygen</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131449Z" creationid="user" creationdate="20170131T131449Z">
+        <seg>酸素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">fluid-name/sulfur-dioxide</prop>
+      <tuv lang="EN-US">
+        <seg>Sulfur dioxide</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131452Z" creationid="user" creationdate="20170131T131452Z">
+        <seg>二酸化硫黄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">fluid-name/tungstic-acid</prop>
+      <tuv lang="EN-US">
+        <seg>Tungstic acid</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131500Z" creationid="user" creationdate="20170131T131500Z">
+        <seg>タングステン酸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-group-name/bob-fluid-products</prop>
+      <tuv lang="EN-US">
+        <seg>Bob's Fluids</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131851Z" creationid="user" creationdate="20170131T131851Z">
+        <seg>Bob's流体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-group-name/bob-gems</prop>
+      <tuv lang="EN-US">
+        <seg>Bob's Gemstones</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131858Z" creationid="user" creationdate="20170131T131858Z">
+        <seg>Bob's宝石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-group-name/bob-intermediate-products</prop>
+      <tuv lang="EN-US">
+        <seg>Bob's Intermediate products</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131844Z" creationid="user" creationdate="20170131T131844Z">
+        <seg>Bob's中間生産物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-group-name/bob-logistics</prop>
+      <tuv lang="EN-US">
+        <seg>Bob's Logistics</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131856Z" creationid="user" creationdate="20170131T131856Z">
+        <seg>Bob's物流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-group-name/bob-resource-products</prop>
+      <tuv lang="EN-US">
+        <seg>Bob's Materials</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131849Z" creationid="user" creationdate="20170131T131849Z">
+        <seg>Bob's原料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-group-name/void</prop>
+      <tuv lang="EN-US">
+        <seg>Void</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131900Z" creationid="user" creationdate="20170131T131900Z">
+        <seg>ヴォイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/advanced-processing-unit</prop>
+      <tuv lang="EN-US">
+        <seg>Advanced processing unit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131206Z" creationid="user" creationdate="20170131T131206Z">
+        <seg>発展制御基板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/air-pump</prop>
+      <tuv lang="EN-US">
+        <seg>Compressor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131324Z" creationid="user" creationdate="20170131T131324Z">
+        <seg>コンプレッサー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/air-pump-2</prop>
+      <tuv lang="EN-US">
+        <seg>Compressor MK2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131329Z" creationid="user" creationdate="20170131T131329Z">
+        <seg>コンプレッサー MK2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/air-pump-3</prop>
+      <tuv lang="EN-US">
+        <seg>Compressor MK3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131329Z" creationid="user" creationdate="20170131T131329Z">
+        <seg>コンプレッサー MK3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/air-pump-4</prop>
+      <tuv lang="EN-US">
+        <seg>Compressor MK4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131329Z" creationid="user" creationdate="20170131T131329Z">
+        <seg>コンプレッサー MK4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/alien-acid-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Alien acid barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131423Z" creationid="user" creationdate="20170131T131423Z">
+        <seg>エイリアンの強酸液バレル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/alien-blue-alloy</prop>
+      <tuv lang="EN-US">
+        <seg>Blue alien alloy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131359Z" creationid="user" creationdate="20170131T131359Z">
+        <seg>ブルーエイリアン合金</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/alien-explosive-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Alien explosive barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131444Z" creationid="user" creationdate="20170131T131444Z">
+        <seg>エイリアンの爆液バレル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/alien-fire-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Alien fire barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131445Z" creationid="user" creationdate="20170131T131445Z">
+        <seg>エイリアンの炎液バレル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/alien-orange-alloy</prop>
+      <tuv lang="EN-US">
+        <seg>Orange alien alloy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131359Z" creationid="user" creationdate="20170131T131359Z">
+        <seg>オレンジエイリアン合金</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/alien-poison-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Alien poison barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131426Z" creationid="user" creationdate="20170131T131426Z">
+        <seg>エイリアンの毒液バレル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/alumina</prop>
+      <tuv lang="EN-US">
+        <seg>Alumina</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T130814Z" creationid="user" creationdate="20170131T130814Z">
+        <seg>アルミナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/aluminium-plate</prop>
+      <tuv lang="EN-US">
+        <seg>Aluminium plate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T130337Z" creationid="user" creationdate="20170131T130337Z">
+        <seg>アルミ板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/amethyst-3</prop>
+      <tuv lang="EN-US">
+        <seg>Raw Amethyst</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131354Z" creationid="user" creationdate="20170131T131354Z">
+        <seg>未加工のアメジスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/amethyst-4</prop>
+      <tuv lang="EN-US">
+        <seg>Cut Amethyst</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131354Z" creationid="user" creationdate="20170131T131354Z">
+        <seg>カット済みアメジスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/amethyst-5</prop>
+      <tuv lang="EN-US">
+        <seg>Polished Amethyst</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131355Z" creationid="user" creationdate="20170131T131355Z">
+        <seg>磨かれたアメジスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/amethyst-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Amethyst Ore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131354Z" creationid="user" creationdate="20170131T131354Z">
+        <seg>アメジスト原石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/bauxite-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Bauxite (Aluminium ore)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T125139Z" creationid="user" creationdate="20170131T125139Z">
+        <seg>アルミ鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/brass-alloy</prop>
+      <tuv lang="EN-US">
+        <seg>Brass plate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T130435Z" creationid="user" creationdate="20170131T130435Z">
+        <seg>真ちゅう板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/brass-gear-wheel</prop>
+      <tuv lang="EN-US">
+        <seg>Brass gear wheel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131207Z" creationid="user" creationdate="20170131T131207Z">
+        <seg>真ちゅうの歯車</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/bronze-alloy</prop>
+      <tuv lang="EN-US">
+        <seg>Bronze plate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T130430Z" creationid="user" creationdate="20170131T130430Z">
+        <seg>ブロンズ板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/calcium-chloride</prop>
+      <tuv lang="EN-US">
+        <seg>Calcium chloride</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T130853Z" creationid="user" creationdate="20170131T130853Z">
+        <seg>塩化カルシウム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/carbon</prop>
+      <tuv lang="EN-US">
+        <seg>Carbon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131050Z" creationid="user" creationdate="20170131T131050Z">
+        <seg>炭素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/ceramic-bearing</prop>
+      <tuv lang="EN-US">
+        <seg>Ceramic bearing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131213Z" creationid="user" creationdate="20170131T131213Z">
+        <seg>セラミックのベアリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/ceramic-bearing-ball</prop>
+      <tuv lang="EN-US">
+        <seg>Ceramic bearing ball</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131209Z" creationid="user" creationdate="20170131T131209Z">
+        <seg>セラミックのベアリングボール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/chemical-boiler</prop>
+      <tuv lang="EN-US">
+        <seg>Chemical furnace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131309Z" creationid="user" creationdate="20170131T131309Z">
+        <seg>化学炉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/chemical-furnace</prop>
+      <tuv lang="EN-US">
+        <seg>Electric Chemical furnace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131826Z" creationid="user" creationdate="20170131T131315Z">
+        <seg>電気式化学炉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/chlorine-canister</prop>
+      <tuv lang="EN-US">
+        <seg>Bottled Chlorine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131333Z" creationid="user" creationdate="20170131T131333Z">
+        <seg>塩素ボンベ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/cobalt-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Cobaltite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T125150Z" creationid="user" creationdate="20170131T125150Z">
+        <seg>コバルト鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/cobalt-oxide</prop>
+      <tuv lang="EN-US">
+        <seg>Cobalt Oxide</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131045Z" creationid="user" creationdate="20170131T131045Z">
+        <seg>酸化コバルト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/cobalt-plate</prop>
+      <tuv lang="EN-US">
+        <seg>Cobalt plate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T130407Z" creationid="user" creationdate="20170131T130407Z">
+        <seg>コバルトプレート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/cobalt-steel-alloy</prop>
+      <tuv lang="EN-US">
+        <seg>Cobalt steel plate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T130811Z" creationid="user" creationdate="20170131T130811Z">
+        <seg>コバルト鋼材</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/copper-tungsten-alloy</prop>
+      <tuv lang="EN-US">
+        <seg>Copper-tungsten plate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T130503Z" creationid="user" creationdate="20170131T130503Z">
+        <seg>銅タングステン材</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/diamond-3</prop>
+      <tuv lang="EN-US">
+        <seg>Raw Diamond</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131357Z" creationid="user" creationdate="20170131T131357Z">
+        <seg>磨かれたダイアモンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/diamond-4</prop>
+      <tuv lang="EN-US">
+        <seg>Cut Diamond</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131357Z" creationid="user" creationdate="20170131T131357Z">
+        <seg>カット済みダイアモンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/diamond-5</prop>
+      <tuv lang="EN-US">
+        <seg>Polished Diamond</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131358Z" creationid="user" creationdate="20170131T131358Z">
+        <seg>磨かれたダイアモンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/diamond-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Diamond Ore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131357Z" creationid="user" creationdate="20170131T131357Z">
+        <seg>ダイアモンド原石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/electric-mixing-furnace</prop>
+      <tuv lang="EN-US">
+        <seg>Electric Metal mixing furnace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131822Z" creationid="user" creationdate="20170131T131234Z">
+        <seg>電気式金属混合炉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/electrolyser</prop>
+      <tuv lang="EN-US">
+        <seg>Electrolyser</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131214Z" creationid="user" creationdate="20170131T131214Z">
+        <seg>電解槽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/electrum-alloy</prop>
+      <tuv lang="EN-US">
+        <seg>Electrum plate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T130445Z" creationid="user" creationdate="20170131T130445Z">
+        <seg>エレクトラムインゴット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/emerald-3</prop>
+      <tuv lang="EN-US">
+        <seg>Raw Emerald</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131354Z" creationid="user" creationdate="20170131T131354Z">
+        <seg>未加工のエメラルド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/emerald-4</prop>
+      <tuv lang="EN-US">
+        <seg>Cut Emerald</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131354Z" creationid="user" creationdate="20170131T131354Z">
+        <seg>カット済みエメラルド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/emerald-5</prop>
+      <tuv lang="EN-US">
+        <seg>Polished Emerald</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131354Z" creationid="user" creationdate="20170131T131354Z">
+        <seg>磨かれたエメラルド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/emerald-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Emerald Ore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131353Z" creationid="user" creationdate="20170131T131353Z">
+        <seg>エメラルド原石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/empty-canister</prop>
+      <tuv lang="EN-US">
+        <seg>Empty canister</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131344Z" creationid="user" creationdate="20170131T131344Z">
+        <seg>空の保存缶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/ferric-chloride-canister</prop>
+      <tuv lang="EN-US">
+        <seg>Ferric chloride canister</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131345Z" creationid="user" creationdate="20170131T131345Z">
+        <seg>塩化第二鉄溶液缶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/gas-canister</prop>
+      <tuv lang="EN-US">
+        <seg>Gas Bottle</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131331Z" creationid="user" creationdate="20170131T131331Z">
+        <seg>空のガスボンベ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/gem-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Unsorted gemstone ore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T125157Z" creationid="user" creationdate="20170131T125157Z">
+        <seg>未選別の宝石の原石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/glass</prop>
+      <tuv lang="EN-US">
+        <seg>Glass</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131056Z" creationid="user" creationdate="20170131T131056Z">
+        <seg>ガラス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/gold-ore</prop>
+      <note>xxx-plateについては、アイコンで表現を変える
+正方形の板形： ○○板
+延棒の形： ○○インゴット
+長方形のプレート形： ○○プレート
+鋼材のような形：○○材
+それ以外：○○</note>
+      <tuv lang="EN-US">
+        <seg>Gold ore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T125105Z" creationid="user" creationdate="20170131T125105Z">
+        <seg>金鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/gold-plate</prop>
+      <tuv lang="EN-US">
+        <seg>Gold plate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T125549Z" creationid="user" creationdate="20170131T125549Z">
+        <seg>金プレート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/grinding-wheel</prop>
+      <tuv lang="EN-US">
+        <seg>Grinding wheel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131121Z" creationid="user" creationdate="20170131T131121Z">
+        <seg>研削砥石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/gunmetal-alloy</prop>
+      <tuv lang="EN-US">
+        <seg>Gunmetal plate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T130529Z" creationid="user" creationdate="20170131T130529Z">
+        <seg>ガンメタルインゴット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/heavy-oil-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Heavy oil barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131335Z" creationid="user" creationdate="20170131T131335Z">
+        <seg>重油バレル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/hydrogen-canister</prop>
+      <tuv lang="EN-US">
+        <seg>Bottled Hydrogen</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131332Z" creationid="user" creationdate="20170131T131332Z">
+        <seg>水素ボンベ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/hydrogen-chloride-canister</prop>
+      <tuv lang="EN-US">
+        <seg>Bottled Hydrogen chloride</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131333Z" creationid="user" creationdate="20170131T131333Z">
+        <seg>塩化水素ボンベ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/invar-alloy</prop>
+      <tuv lang="EN-US">
+        <seg>Invar plate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T130543Z" creationid="user" creationdate="20170131T130543Z">
+        <seg>インバーインゴット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/lead-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Galena (Lead ore)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T125110Z" creationid="user" creationdate="20170131T125110Z">
+        <seg>鉛鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/lead-oxide</prop>
+      <tuv lang="EN-US">
+        <seg>Lead oxide</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T130912Z" creationid="user" creationdate="20170131T130912Z">
+        <seg>酸化鉛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/lead-plate</prop>
+      <tuv lang="EN-US">
+        <seg>Lead plate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T125940Z" creationid="user" creationdate="20170131T125558Z">
+        <seg>鉛板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/light-oil-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Light oil barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131342Z" creationid="user" creationdate="20170131T131342Z">
+        <seg>軽油バレル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/liquid-fuel-canister</prop>
+      <tuv lang="EN-US">
+        <seg>Liquid fuel canister</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131345Z" creationid="user" creationdate="20170131T131345Z">
+        <seg>液体燃料缶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/lithia-water-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Lithia water barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131343Z" creationid="user" creationdate="20170131T131343Z">
+        <seg>リチア水バレル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/lithium</prop>
+      <tuv lang="EN-US">
+        <seg>Lithium</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T130416Z" creationid="user" creationdate="20170131T130416Z">
+        <seg>リチウムプレート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/lithium-chloride</prop>
+      <tuv lang="EN-US">
+        <seg>Lithium chloride</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131056Z" creationid="user" creationdate="20170131T131056Z">
+        <seg>塩化リチウム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/lithium-cobalt-oxide</prop>
+      <tuv lang="EN-US">
+        <seg>Lithium cobalt oxide</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131059Z" creationid="user" creationdate="20170131T131059Z">
+        <seg>リチウムコバルト酸化物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/lithium-ion-battery</prop>
+      <tuv lang="EN-US">
+        <seg>Lithium-ion battery</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131114Z" creationid="user" creationdate="20170131T131114Z">
+        <seg>リチウムイオン電池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/lithium-perchlorate</prop>
+      <tuv lang="EN-US">
+        <seg>Lithium perchlorate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131056Z" creationid="user" creationdate="20170131T131056Z">
+        <seg>過塩素酸リチウム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/lubricant-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Lubricant barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131342Z" creationid="user" creationdate="20170131T131342Z">
+        <seg>潤滑油バレル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/mixing-furnace</prop>
+      <tuv lang="EN-US">
+        <seg>Metal mixing furnace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131225Z" creationid="user" creationdate="20170131T131225Z">
+        <seg>金属混合炉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/nickel-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Nickel ore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T125147Z" creationid="user" creationdate="20170131T125147Z">
+        <seg>ニッケル鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/nickel-plate</prop>
+      <tuv lang="EN-US">
+        <seg>Nickel plate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T130334Z" creationid="user" creationdate="20170131T130334Z">
+        <seg>ニッケルインゴット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/nitinol-alloy</prop>
+      <tuv lang="EN-US">
+        <seg>Nitinol plate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T130823Z" creationid="user" creationdate="20170131T130551Z">
+        <seg>ニチノール板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/nitinol-bearing</prop>
+      <tuv lang="EN-US">
+        <seg>Nitinol bearing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131210Z" creationid="user" creationdate="20170131T131210Z">
+        <seg>ニチノールのベアリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/nitinol-bearing-ball</prop>
+      <tuv lang="EN-US">
+        <seg>Nitinol bearing ball</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131209Z" creationid="user" creationdate="20170131T131209Z">
+        <seg>ニチノールのベアリングボール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/nitinol-gear-wheel</prop>
+      <tuv lang="EN-US">
+        <seg>Nitinol gear wheel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131208Z" creationid="user" creationdate="20170131T131208Z">
+        <seg>ニチノールの歯車</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/nitric-acid-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Nitric acid barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131343Z" creationid="user" creationdate="20170131T131343Z">
+        <seg>硝酸バレル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/nitrogen-canister</prop>
+      <tuv lang="EN-US">
+        <seg>Bottled Nitrogen</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131332Z" creationid="user" creationdate="20170131T131332Z">
+        <seg>窒素ボンベ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/oxygen-canister</prop>
+      <tuv lang="EN-US">
+        <seg>Bottled Oxygen</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131332Z" creationid="user" creationdate="20170131T131332Z">
+        <seg>酸素ボンベ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/petroleum-gas-canister</prop>
+      <tuv lang="EN-US">
+        <seg>Bottled Petroleum gas</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131333Z" creationid="user" creationdate="20170131T131333Z">
+        <seg>プロパンガスボンベ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/polishing-compound</prop>
+      <tuv lang="EN-US">
+        <seg>Polishing compound</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131201Z" creationid="user" creationdate="20170131T131201Z">
+        <seg>研磨剤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/polishing-wheel</prop>
+      <tuv lang="EN-US">
+        <seg>Polishing wheel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131204Z" creationid="user" creationdate="20170131T131204Z">
+        <seg>研磨砥石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/powdered-tungsten</prop>
+      <tuv lang="EN-US">
+        <seg>Powdered tungsten</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131041Z" creationid="user" creationdate="20170131T131041Z">
+        <seg>タングステン粉末</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/quartz</prop>
+      <tuv lang="EN-US">
+        <seg>Quartz (Silicon ore)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T125154Z" creationid="user" creationdate="20170131T125154Z">
+        <seg>シリコン鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/resin</prop>
+      <tuv lang="EN-US">
+        <seg>Resin</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131050Z" creationid="user" creationdate="20170131T131050Z">
+        <seg>樹脂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/rubber</prop>
+      <tuv lang="EN-US">
+        <seg>Rubber</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131052Z" creationid="user" creationdate="20170131T131052Z">
+        <seg>ゴム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/ruby-3</prop>
+      <tuv lang="EN-US">
+        <seg>Raw Ruby</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131351Z" creationid="user" creationdate="20170131T131351Z">
+        <seg>未加工のルビー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/ruby-4</prop>
+      <tuv lang="EN-US">
+        <seg>Cut Ruby</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131352Z" creationid="user" creationdate="20170131T131352Z">
+        <seg>カット済みルビー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/ruby-5</prop>
+      <tuv lang="EN-US">
+        <seg>Polished Ruby</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131352Z" creationid="user" creationdate="20170131T131352Z">
+        <seg>磨かれたルビー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/ruby-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Ruby Ore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131346Z" creationid="user" creationdate="20170131T131346Z">
+        <seg>ルビー原石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/rutile-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Rutile (Titanium ore)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T125144Z" creationid="user" creationdate="20170131T125144Z">
+        <seg>チタン鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/salt</prop>
+      <tuv lang="EN-US">
+        <seg>Salt</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131047Z" creationid="user" creationdate="20170131T131047Z">
+        <seg>塩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/sapphire-3</prop>
+      <tuv lang="EN-US">
+        <seg>Raw Sapphire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131353Z" creationid="user" creationdate="20170131T131353Z">
+        <seg>未加工のサファイア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/sapphire-4</prop>
+      <tuv lang="EN-US">
+        <seg>Cut Sapphire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131353Z" creationid="user" creationdate="20170131T131353Z">
+        <seg>カット済みサファイア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/sapphire-5</prop>
+      <tuv lang="EN-US">
+        <seg>Polished Sapphire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131353Z" creationid="user" creationdate="20170131T131353Z">
+        <seg>磨かれたサファイア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/sapphire-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Sapphire Ore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131352Z" creationid="user" creationdate="20170131T131352Z">
+        <seg>サファイア原石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/silicon</prop>
+      <tuv lang="EN-US">
+        <seg>Silicon plate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T130350Z" creationid="user" creationdate="20170131T130350Z">
+        <seg>シリコンインゴット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/silicon-carbide</prop>
+      <tuv lang="EN-US">
+        <seg>Silicon carbide</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131055Z" creationid="user" creationdate="20170131T131055Z">
+        <seg>炭化ケイ素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/silicon-nitride</prop>
+      <tuv lang="EN-US">
+        <seg>Silicon nitride</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131054Z" creationid="user" creationdate="20170131T131054Z">
+        <seg>窒化ケイ素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/silicon-powder</prop>
+      <tuv lang="EN-US">
+        <seg>Powdered silicon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131042Z" creationid="user" creationdate="20170131T131042Z">
+        <seg>シリコン粉末</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/silicon-wafer</prop>
+      <tuv lang="EN-US">
+        <seg>Silicon wafer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131052Z" creationid="user" creationdate="20170131T131052Z">
+        <seg>シリコンウエハ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/silver-nitrate</prop>
+      <tuv lang="EN-US">
+        <seg>Silver nitrate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131102Z" creationid="user" creationdate="20170131T131102Z">
+        <seg>硝酸銀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/silver-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Silver ore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T125117Z" creationid="user" creationdate="20170131T125117Z">
+        <seg>銀鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/silver-oxide</prop>
+      <tuv lang="EN-US">
+        <seg>Silver oxide</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131102Z" creationid="user" creationdate="20170131T131102Z">
+        <seg>酸化銀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/silver-plate</prop>
+      <tuv lang="EN-US">
+        <seg>Silver plate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T125945Z" creationid="user" creationdate="20170131T125711Z">
+        <seg>銀インゴット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/silver-zinc-battery</prop>
+      <tuv lang="EN-US">
+        <seg>Silver zinc battery</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131137Z" creationid="user" creationdate="20170131T131108Z">
+        <seg>銀亜鉛電池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/sodium-hydroxide</prop>
+      <tuv lang="EN-US">
+        <seg>Sodium hydroxide</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131049Z" creationid="user" creationdate="20170131T131049Z">
+        <seg>水酸化ナトリウム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/solder-alloy</prop>
+      <tuv lang="EN-US">
+        <seg>Solder plate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T130759Z" creationid="user" creationdate="20170131T130555Z">
+        <seg>ハンダプレート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/steel-bearing</prop>
+      <tuv lang="EN-US">
+        <seg>Steel bearing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131209Z" creationid="user" creationdate="20170131T131209Z">
+        <seg>鋼鉄のベアリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/steel-bearing-ball</prop>
+      <tuv lang="EN-US">
+        <seg>Steel bearing ball</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131209Z" creationid="user" creationdate="20170131T131209Z">
+        <seg>鋼鉄のベアリングボール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/steel-gear-wheel</prop>
+      <tuv lang="EN-US">
+        <seg>Steel gear wheel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131208Z" creationid="user" creationdate="20170131T131208Z">
+        <seg>鋼鉄の歯車</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/sulfuric-acid-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Sulfuric acid barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131342Z" creationid="user" creationdate="20170131T131342Z">
+        <seg>硫酸バレル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/synthetic-wood</prop>
+      <tuv lang="EN-US">
+        <seg>Synthetic wood</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131100Z" creationid="user" creationdate="20170131T131100Z">
+        <seg>合成木材</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/tin-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Tin ore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T125122Z" creationid="user" creationdate="20170131T125122Z">
+        <seg>スズ鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/tin-plate</prop>
+      <tuv lang="EN-US">
+        <seg>Tin plate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T130013Z" creationid="user" creationdate="20170131T130013Z">
+        <seg>スズ板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/titanium-bearing</prop>
+      <tuv lang="EN-US">
+        <seg>Titanium bearing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131209Z" creationid="user" creationdate="20170131T131209Z">
+        <seg>チタンのベアリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/titanium-bearing-ball</prop>
+      <tuv lang="EN-US">
+        <seg>Titanium bearing ball</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131209Z" creationid="user" creationdate="20170131T131209Z">
+        <seg>チタンのベアリングボール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/titanium-gear-wheel</prop>
+      <tuv lang="EN-US">
+        <seg>Titanium gear wheel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131208Z" creationid="user" creationdate="20170131T131208Z">
+        <seg>チタンの歯車</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/titanium-plate</prop>
+      <tuv lang="EN-US">
+        <seg>Titanium plate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T130345Z" creationid="user" creationdate="20170131T130345Z">
+        <seg>チタン材</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/topaz-3</prop>
+      <tuv lang="EN-US">
+        <seg>Raw Topaz</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131356Z" creationid="user" creationdate="20170131T131356Z">
+        <seg>未加工のトパーズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/topaz-4</prop>
+      <tuv lang="EN-US">
+        <seg>Cut Topaz</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131356Z" creationid="user" creationdate="20170131T131356Z">
+        <seg>カット済みトパーズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/topaz-5</prop>
+      <tuv lang="EN-US">
+        <seg>Polished Topaz</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131357Z" creationid="user" creationdate="20170131T131357Z">
+        <seg>磨かれたトパーズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/topaz-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Topaz Ore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131356Z" creationid="user" creationdate="20170131T131356Z">
+        <seg>トパーズ原石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/tungsten-carbide</prop>
+      <tuv lang="EN-US">
+        <seg>Tungsten carbide plate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T130517Z" creationid="user" creationdate="20170131T130517Z">
+        <seg>炭化タングステン板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/tungsten-gear-wheel</prop>
+      <tuv lang="EN-US">
+        <seg>Tungsten gear wheel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131208Z" creationid="user" creationdate="20170131T131208Z">
+        <seg>タングステンの歯車</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/tungsten-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Tungsten ore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T125132Z" creationid="user" creationdate="20170131T125132Z">
+        <seg>タングステン鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/tungsten-oxide</prop>
+      <tuv lang="EN-US">
+        <seg>Tungsten oxide</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131037Z" creationid="user" creationdate="20170131T131037Z">
+        <seg>酸化タングステン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/tungsten-plate</prop>
+      <tuv lang="EN-US">
+        <seg>Tungsten plate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T130043Z" creationid="user" creationdate="20170131T130043Z">
+        <seg>タングステン材</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/void</prop>
+      <tuv lang="EN-US">
+        <seg>Void</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131358Z" creationid="user" creationdate="20170131T131358Z">
+        <seg>ヴォイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/void-pump</prop>
+      <tuv lang="EN-US">
+        <seg>Gas venting pump</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131358Z" creationid="user" creationdate="20170131T131358Z">
+        <seg>ガス抜きポンプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/water-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Water barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131343Z" creationid="user" creationdate="20170131T131343Z">
+        <seg>水バレル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/water-pump</prop>
+      <tuv lang="EN-US">
+        <seg>Pump</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131330Z" creationid="user" creationdate="20170131T131330Z">
+        <seg>ポンプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/water-pump-2</prop>
+      <tuv lang="EN-US">
+        <seg>Pump MK2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131330Z" creationid="user" creationdate="20170131T131330Z">
+        <seg>ポンプ MK2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/water-pump-3</prop>
+      <tuv lang="EN-US">
+        <seg>Pump MK3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131330Z" creationid="user" creationdate="20170131T131330Z">
+        <seg>ポンプ MK3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/water-pump-4</prop>
+      <tuv lang="EN-US">
+        <seg>Pump MK4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131330Z" creationid="user" creationdate="20170131T131330Z">
+        <seg>ポンプ MK4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/zinc-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Zinc ore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T125136Z" creationid="user" creationdate="20170131T125136Z">
+        <seg>亜鉛鉱石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">item-name/zinc-plate</prop>
+      <tuv lang="EN-US">
+        <seg>Zinc plate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T130832Z" creationid="user" creationdate="20170131T130324Z">
+        <seg>亜鉛板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/bob-empty-crude-oil-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Empty crude oil barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131714Z" creationid="user" creationdate="20170131T131714Z">
+        <seg>空のドラム缶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/bob-fill-crude-oil-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Fill crude oil barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131706Z" creationid="user" creationdate="20170131T131706Z">
+        <seg>原油入りドラム缶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/bob-oil-processing</prop>
+      <tuv lang="EN-US">
+        <seg>Crude oil processing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131736Z" creationid="user" creationdate="20170131T131736Z">
+        <seg>石油加工</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/chlorine-canister</prop>
+      <tuv lang="EN-US">
+        <seg>Fill chlorine bottle</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131703Z" creationid="user" creationdate="20170131T131703Z">
+        <seg>塩素をボンベに詰める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/coal-cracking</prop>
+      <tuv lang="EN-US">
+        <seg>Coal cracking to Heavy oil</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131527Z" creationid="user" creationdate="20170131T131527Z">
+        <seg>石炭を重油に分解</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/cobalt-oxide-from-copper</prop>
+      <tuv lang="EN-US">
+        <seg>Advanced copper processing with Cobalt oxide</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131650Z" creationid="user" creationdate="20170131T131650Z">
+        <seg>発展的な銅と酸化コバルトの加工</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/empty-alien-acid-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Empty alien acid barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131719Z" creationid="user" creationdate="20170131T131719Z">
+        <seg>エイリアンの強酸液バレルを空にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/empty-alien-explosive-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Empty alien explosive barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131721Z" creationid="user" creationdate="20170131T131721Z">
+        <seg>エイリアンの爆液バレルを空にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/empty-alien-fire-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Empty alien fire barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131721Z" creationid="user" creationdate="20170131T131721Z">
+        <seg>エイリアンの炎液バレルを空にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/empty-alien-poison-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Empty alien poison barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131721Z" creationid="user" creationdate="20170131T131721Z">
+        <seg>エイリアンの毒液バレルを空にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/empty-chlorine-canister</prop>
+      <tuv lang="EN-US">
+        <seg>Empty chlorine bottle</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131705Z" creationid="user" creationdate="20170131T131705Z">
+        <seg>塩素ボンベを空にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/empty-ferric-chloride-canister</prop>
+      <tuv lang="EN-US">
+        <seg>Empty ferric chloride canister</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131725Z" creationid="user" creationdate="20170131T131725Z">
+        <seg>塩化第二鉄溶液缶を空にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/empty-heavy-oil-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Empty heavy oil barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131713Z" creationid="user" creationdate="20170131T131713Z">
+        <seg>重油バレルを空にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/empty-hydrogen-canister</prop>
+      <tuv lang="EN-US">
+        <seg>Empty hydrogen bottle</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131704Z" creationid="user" creationdate="20170131T131704Z">
+        <seg>水素ボンベを空にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/empty-hydrogen-chloride-canister</prop>
+      <tuv lang="EN-US">
+        <seg>Empty hydrogen chloride bottle</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131705Z" creationid="user" creationdate="20170131T131705Z">
+        <seg>塩化水素ボンベを空にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/empty-light-oil-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Empty light oil barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131714Z" creationid="user" creationdate="20170131T131714Z">
+        <seg>軽油バレルを空にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/empty-liquid-fuel-canister</prop>
+      <tuv lang="EN-US">
+        <seg>Empty liquid fuel canister</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131726Z" creationid="user" creationdate="20170131T131726Z">
+        <seg>液体燃料缶を空にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/empty-lithia-water-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Empty lithia water barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131715Z" creationid="user" creationdate="20170131T131715Z">
+        <seg>リチア水バレルを空にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/empty-lubricant-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Empty lubricant barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131714Z" creationid="user" creationdate="20170131T131714Z">
+        <seg>潤滑油バレルを空にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/empty-nitric-acid-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Empty nitric acid barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131714Z" creationid="user" creationdate="20170131T131714Z">
+        <seg>硝酸バレルを空にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/empty-nitrogen-canister</prop>
+      <tuv lang="EN-US">
+        <seg>Empty nitrogen bottle</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131704Z" creationid="user" creationdate="20170131T131704Z">
+        <seg>窒素ボンベを空にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/empty-oxygen-canister</prop>
+      <tuv lang="EN-US">
+        <seg>Empty oxygen bottle</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131704Z" creationid="user" creationdate="20170131T131704Z">
+        <seg>酸素ボンベを空にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/empty-petroleum-gas-canister</prop>
+      <tuv lang="EN-US">
+        <seg>Empty petroleum gas canister</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131705Z" creationid="user" creationdate="20170131T131705Z">
+        <seg>プロパンガスボンベを空にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/empty-sulfuric-acid-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Empty sulfuric acid barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131714Z" creationid="user" creationdate="20170131T131714Z">
+        <seg>硫酸バレルを空にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/empty-water-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Empty water barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131714Z" creationid="user" creationdate="20170131T131714Z">
+        <seg>水バレルを空にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/ferric-chloride-canister</prop>
+      <tuv lang="EN-US">
+        <seg>Fill ferric chloride canister</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131722Z" creationid="user" creationdate="20170131T131722Z">
+        <seg>塩化第二鉄溶液を保存缶に詰める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/fill-alien-acid-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Fill alien acid barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131712Z" creationid="user" creationdate="20170131T131712Z">
+        <seg>エイリアンの強酸液をドラム缶に詰める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/fill-alien-explosive-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Fill alien explosive barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131713Z" creationid="user" creationdate="20170131T131713Z">
+        <seg>エイリアンの爆液をドラム缶に詰める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/fill-alien-fire-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Fill alien fire barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131713Z" creationid="user" creationdate="20170131T131713Z">
+        <seg>エイリアンの炎液をドラム缶に詰める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/fill-alien-poison-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Fill alien poison barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131713Z" creationid="user" creationdate="20170131T131713Z">
+        <seg>エイリアンの毒液をドラム缶に詰める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/fill-heavy-oil-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Fill heavy oil barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131705Z" creationid="user" creationdate="20170131T131705Z">
+        <seg>重油をドラム缶に詰める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/fill-light-oil-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Fill light oil barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131705Z" creationid="user" creationdate="20170131T131705Z">
+        <seg>軽油をドラム缶に詰める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/fill-lithia-water-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Fill lithia water barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131706Z" creationid="user" creationdate="20170131T131706Z">
+        <seg>リチア水をドラム缶に詰める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/fill-lubricant-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Fill lubricant barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131706Z" creationid="user" creationdate="20170131T131706Z">
+        <seg>潤滑油をドラム缶に詰める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/fill-nitric-acid-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Fill nitric acid barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131706Z" creationid="user" creationdate="20170131T131706Z">
+        <seg>硝酸をドラム缶に詰める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/fill-sulfuric-acid-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Fill sulfuric acid barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131706Z" creationid="user" creationdate="20170131T131706Z">
+        <seg>硫酸をドラム缶に詰める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/fill-water-barrel</prop>
+      <tuv lang="EN-US">
+        <seg>Fill water barrel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131706Z" creationid="user" creationdate="20170131T131706Z">
+        <seg>水をドラム缶に詰める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/hydrogen-canister</prop>
+      <tuv lang="EN-US">
+        <seg>Fill hydrogen bottle</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131702Z" creationid="user" creationdate="20170131T131702Z">
+        <seg>水素をボンベに詰める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/hydrogen-chloride-canister</prop>
+      <tuv lang="EN-US">
+        <seg>Fill hydrogen chloride bottle</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131703Z" creationid="user" creationdate="20170131T131703Z">
+        <seg>塩化水素をボンベに詰める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/lead-oxide</prop>
+      <tuv lang="EN-US">
+        <seg>Lead oxide</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131525Z" creationid="user" creationdate="20170131T131525Z">
+        <seg>酸化鉛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/liquid-fuel-canister</prop>
+      <tuv lang="EN-US">
+        <seg>Fill liquid fuel canister</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131723Z" creationid="user" creationdate="20170131T131723Z">
+        <seg>液体燃料を保存缶に詰める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/lithium-water-electrolysis</prop>
+      <tuv lang="EN-US">
+        <seg>Lithium chloride Electrolysis</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131523Z" creationid="user" creationdate="20170131T131523Z">
+        <seg>塩化リチウムの電気分解</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/nitrogen-canister</prop>
+      <tuv lang="EN-US">
+        <seg>Fill nitrogen bottle</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131703Z" creationid="user" creationdate="20170131T131703Z">
+        <seg>窒素をボンベに詰める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/oxygen-canister</prop>
+      <tuv lang="EN-US">
+        <seg>Fill oxygen bottle</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131703Z" creationid="user" creationdate="20170131T131703Z">
+        <seg>酸素をボンベに詰める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/petroleum-gas-canister</prop>
+      <tuv lang="EN-US">
+        <seg>Fill petroleum gas canister</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131703Z" creationid="user" creationdate="20170131T131703Z">
+        <seg>プロパンガスをボンベに詰める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/petroleum-gas-cracking</prop>
+      <tuv lang="EN-US">
+        <seg>Petroleum gas cracking to Hydrogen</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131528Z" creationid="user" creationdate="20170131T131528Z">
+        <seg>プロパンガスを水素に分解</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/salt-water-electrolysis</prop>
+      <tuv lang="EN-US">
+        <seg>Salt water electrolysis</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131521Z" creationid="user" creationdate="20170131T131521Z">
+        <seg>塩水の電気分解</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/silver-from-lead</prop>
+      <tuv lang="EN-US">
+        <seg>Advanced lead processing with Silver ore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131701Z" creationid="user" creationdate="20170131T131701Z">
+        <seg>発展的な鉛と銀の加工</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/solid-fuel-from-hydrogen</prop>
+      <tuv lang="EN-US">
+        <seg>Solid fuel from Hydrogen</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131529Z" creationid="user" creationdate="20170131T131529Z">
+        <seg>固形燃料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/sort-gem-ore</prop>
+      <tuv lang="EN-US">
+        <seg>Sort raw gems</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131734Z" creationid="user" creationdate="20170131T131734Z">
+        <seg>宝石を選別する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/tungstic-acid</prop>
+      <tuv lang="EN-US">
+        <seg>Tungstic Acid</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131524Z" creationid="user" creationdate="20170131T131524Z">
+        <seg>タングステン酸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">recipe-name/water-electrolysis</prop>
+      <tuv lang="EN-US">
+        <seg>Water electrolysis</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131520Z" creationid="user" creationdate="20170131T131520Z">
+        <seg>水の電気分解</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-description/alloy-processing</prop>
+      <tuv lang="EN-US">
+        <seg>Learn how to combine more than one ingredient to make an alloy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132135Z" creationid="user" creationdate="20170131T132135Z">
+        <seg>合金を製造するための金属混合技術を学びましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-description/aluminium-processing</prop>
+      <tuv lang="EN-US">
+        <seg>Research how to purify aluminium, a fairly strong light weight metal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132211Z" creationid="user" creationdate="20170131T132205Z">
+        <seg>アルミ精錬のための研究です。かなり強く軽量な金属です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-description/chemical-processing</prop>
+      <tuv lang="EN-US">
+        <seg>Research into to use and production of chemicals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132137Z" creationid="user" creationdate="20170131T132137Z">
+        <seg>化学製品を製造するための研究です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-description/electrolysis</prop>
+      <tuv lang="EN-US">
+        <seg>Electrolysis is uses to separate elements from a liquid.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132200Z" creationid="user" creationdate="20170131T132200Z">
+        <seg>電気分解によって液体を元素に分解できるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-description/gold-processing</prop>
+      <tuv lang="EN-US">
+        <seg>Research how to refine gold.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132206Z" creationid="user" creationdate="20170131T132206Z">
+        <seg>金を精錬するための研究です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-description/invar-processing</prop>
+      <tuv lang="EN-US">
+        <seg>Invar is an Iron Nickel alloy, maybe we can use this for something.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132308Z" creationid="user" creationdate="20170131T132308Z">
+        <seg>インバーとは鉄とニッケルの合金です。多分何かに使えるのではないでしょうか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-description/lead-processing</prop>
+      <tuv lang="EN-US">
+        <seg>Research how to refine lead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132215Z" creationid="user" creationdate="20170131T132215Z">
+        <seg>鉛を精錬するための研究です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-description/nickel-processing</prop>
+      <tuv lang="EN-US">
+        <seg>Research how to refine nickel.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132214Z" creationid="user" creationdate="20170131T132214Z">
+        <seg>ニッケルを精錬するための研究です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-description/nitinol-processing</prop>
+      <tuv lang="EN-US">
+        <seg>Nitinol is a Nickel Titanium alloy, let's see what we can use it for.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132254Z" creationid="user" creationdate="20170131T132254Z">
+        <seg>ニチノールとはニッケルとチタンの合金です。何に使えるか試してみましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-description/silicon-processing</prop>
+      <tuv lang="EN-US">
+        <seg>Research how to purify silicon for use in electronics.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132230Z" creationid="user" creationdate="20170131T132230Z">
+        <seg>電子機器製造に必要なシリコン精錬方法を研究しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-description/titanium-processing</prop>
+      <tuv lang="EN-US">
+        <seg>Titanium is a very strong light weight metal, but hard to separate from its ore.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132234Z" creationid="user" creationdate="20170131T132234Z">
+        <seg>チタンは非常に強靭で軽量な金属です。ですが、鉱石から取り出すのは簡単ではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-description/tungsten-alloy-processing</prop>
+      <tuv lang="EN-US">
+        <seg>Research how to make Tungsten based alloys, this might make it even more useful.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132323Z" creationid="user" creationdate="20170131T132323Z">
+        <seg>タングステンをベースとした合金加工の研究です。これでさらに便利になることでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-description/tungsten-processing</prop>
+      <tuv lang="EN-US">
+        <seg>Tungsten has a very high melting point, let's research how to refine it another way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132235Z" creationid="user" creationdate="20170131T132235Z">
+        <seg>タングステンは非常に融点が高いです。さぁ、精錬する方法を研究しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/air-compressor</prop>
+      <tuv lang="EN-US">
+        <seg>Air Compressors</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132059Z" creationid="user" creationdate="20170131T132059Z">
+        <seg>空気圧縮技術</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/alien-blue-research</prop>
+      <tuv lang="EN-US">
+        <seg>Blue alien artifact research</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132120Z" creationid="user" creationdate="20170131T132120Z">
+        <seg>ブルーエイリアンアーティファクトの研究</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/alien-green-research</prop>
+      <tuv lang="EN-US">
+        <seg>Green alien artifact research</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132121Z" creationid="user" creationdate="20170131T132121Z">
+        <seg>グリーンエイリアンアーティファクトの研究</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/alien-orange-research</prop>
+      <tuv lang="EN-US">
+        <seg>Orange alien artifact research</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132120Z" creationid="user" creationdate="20170131T132120Z">
+        <seg>オレンジエイリアンアーティファクトの研究</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/alien-purple-research</prop>
+      <tuv lang="EN-US">
+        <seg>Purple alien artifact research</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132120Z" creationid="user" creationdate="20170131T132120Z">
+        <seg>パープルエイリアンアーティファクトの研究</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/alien-red-research</prop>
+      <tuv lang="EN-US">
+        <seg>Red alien artifact research</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132122Z" creationid="user" creationdate="20170131T132122Z">
+        <seg>レッドエイリアンアーティファクトの研究</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/alien-yellow-research</prop>
+      <tuv lang="EN-US">
+        <seg>Yellow alien artifact research</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132121Z" creationid="user" creationdate="20170131T132121Z">
+        <seg>イエローエイリアンアーティファクトの研究</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/alloy-processing</prop>
+      <tuv lang="EN-US">
+        <seg>Alloy processing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131925Z" creationid="user" creationdate="20170131T131925Z">
+        <seg>合金技術</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/aluminium-processing</prop>
+      <tuv lang="EN-US">
+        <seg>Aluminium processing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132007Z" creationid="user" creationdate="20170131T132007Z">
+        <seg>アルミ加工技術</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/barrels</prop>
+      <tuv lang="EN-US">
+        <seg>Barrelling</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132106Z" creationid="user" creationdate="20170131T132106Z">
+        <seg>液体の取扱技術</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/brass-processing</prop>
+      <tuv lang="EN-US">
+        <seg>Brass processing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132019Z" creationid="user" creationdate="20170131T132019Z">
+        <seg>真ちゅう加工技術</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/ceramics</prop>
+      <tuv lang="EN-US">
+        <seg>Ceramics</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132052Z" creationid="user" creationdate="20170131T132052Z">
+        <seg>セラミック加工技術</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/chemical-processing</prop>
+      <tuv lang="EN-US">
+        <seg>Chemical processing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131936Z" creationid="user" creationdate="20170131T131936Z">
+        <seg>化学処理技術</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/cobalt-processing</prop>
+      <tuv lang="EN-US">
+        <seg>Cobalt processing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132018Z" creationid="user" creationdate="20170131T132018Z">
+        <seg>コバルト加工技術</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/electrolysis</prop>
+      <tuv lang="EN-US">
+        <seg>Electrolysis</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T131951Z" creationid="user" creationdate="20170131T131951Z">
+        <seg>電気分解処理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/electrum-processing</prop>
+      <tuv lang="EN-US">
+        <seg>Electrum processing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132021Z" creationid="user" creationdate="20170131T132021Z">
+        <seg>エレクトラム加工技術</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/gas-canisters</prop>
+      <tuv lang="EN-US">
+        <seg>Bottled gas processing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132102Z" creationid="user" creationdate="20170131T132102Z">
+        <seg>ガスの取扱技術</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/gem-processing</prop>
+      <tuv lang="EN-US">
+        <seg>Gem processing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132110Z" creationid="user" creationdate="20170131T132110Z">
+        <seg>宝石加工技術</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/gold-processing</prop>
+      <tuv lang="EN-US">
+        <seg>Gold processing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132009Z" creationid="user" creationdate="20170131T132009Z">
+        <seg>金加工技術</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/grinding</prop>
+      <tuv lang="EN-US">
+        <seg>Grinding</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132115Z" creationid="user" creationdate="20170131T132107Z">
+        <seg>研削加工</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/invar-processing</prop>
+      <tuv lang="EN-US">
+        <seg>Invar processing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132022Z" creationid="user" creationdate="20170131T132022Z">
+        <seg>インバー加工技術</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/lead-processing</prop>
+      <tuv lang="EN-US">
+        <seg>Lead processing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132011Z" creationid="user" creationdate="20170131T132011Z">
+        <seg>鉛加工技術</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/lithium-processing</prop>
+      <tuv lang="EN-US">
+        <seg>Lithium processing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132017Z" creationid="user" creationdate="20170131T132017Z">
+        <seg>リチウム加工技術</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/nickel-processing</prop>
+      <tuv lang="EN-US">
+        <seg>Nickel processing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132010Z" creationid="user" creationdate="20170131T132010Z">
+        <seg>ニッケル加工技術</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/nitinol-processing</prop>
+      <tuv lang="EN-US">
+        <seg>Nitinol processing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132022Z" creationid="user" creationdate="20170131T132022Z">
+        <seg>ニチノール加工技術</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/nitrogen-processing</prop>
+      <tuv lang="EN-US">
+        <seg>Nitrogen processing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132050Z" creationid="user" creationdate="20170131T132025Z">
+        <seg>窒素処理技術</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/polishing</prop>
+      <tuv lang="EN-US">
+        <seg>Polishing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132112Z" creationid="user" creationdate="20170131T132108Z">
+        <seg>研磨加工</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/silicon-processing</prop>
+      <tuv lang="EN-US">
+        <seg>Silicon processing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132013Z" creationid="user" creationdate="20170131T132013Z">
+        <seg>シリコン加工技術</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/titanium-processing</prop>
+      <tuv lang="EN-US">
+        <seg>Titanium processing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132014Z" creationid="user" creationdate="20170131T132014Z">
+        <seg>チタン加工技術</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/tungsten-alloy-processing</prop>
+      <tuv lang="EN-US">
+        <seg>Tungsten alloy processing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132023Z" creationid="user" creationdate="20170131T132023Z">
+        <seg>タングステン合金加工技術</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/tungsten-processing</prop>
+      <tuv lang="EN-US">
+        <seg>Tungsten processing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132016Z" creationid="user" creationdate="20170131T132016Z">
+        <seg>タングステン加工技術</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/void-fluid</prop>
+      <tuv lang="EN-US">
+        <seg>Gas venting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132118Z" creationid="user" creationdate="20170131T132118Z">
+        <seg>ガス抜き技術</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/water-bore</prop>
+      <tuv lang="EN-US">
+        <seg>Water bore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132056Z" creationid="user" creationdate="20170131T132056Z">
+        <seg>井戸掘り技術</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">bobplates_0.14.0.cfg</prop>
+      <prop type="id">technology-name/zinc-processing</prop>
+      <tuv lang="EN-US">
+        <seg>Zinc processing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="user" changedate="20170131T132016Z" creationid="user" creationdate="20170131T132016Z">
+        <seg>亜鉛加工技術</seg>
       </tuv>
     </tu>
   </body>
