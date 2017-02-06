@@ -4651,8 +4651,8 @@
       <tuv xml:lang="EN-US">
         <seg>Water Pumpjack MK1</seg>
       </tuv>
-      <tuv xml:lang="JA" changeid="user" changedate="20170201T112849Z" creationid="user" creationdate="20170201T112849Z">
-        <seg>井戸</seg>
+      <tuv xml:lang="JA" changeid="user" changedate="20170205T084325Z" creationid="user" creationdate="20170201T112849Z">
+        <seg>汲上機</seg>
       </tuv>
     </tu>
     <tu>
@@ -4661,8 +4661,8 @@
       <tuv xml:lang="EN-US">
         <seg>Water Pumpjack MK2</seg>
       </tuv>
-      <tuv xml:lang="JA" changeid="user" changedate="20170201T112851Z" creationid="user" creationdate="20170201T112851Z">
-        <seg>井戸2</seg>
+      <tuv xml:lang="JA" changeid="user" changedate="20170205T084327Z" creationid="user" creationdate="20170201T112851Z">
+        <seg>汲上機2</seg>
       </tuv>
     </tu>
     <tu>
@@ -4671,8 +4671,8 @@
       <tuv xml:lang="EN-US">
         <seg>Water Pumpjack MK3</seg>
       </tuv>
-      <tuv xml:lang="JA" changeid="user" changedate="20170201T112852Z" creationid="user" creationdate="20170201T112852Z">
-        <seg>井戸3</seg>
+      <tuv xml:lang="JA" changeid="user" changedate="20170205T084328Z" creationid="user" creationdate="20170201T112852Z">
+        <seg>汲上機3</seg>
       </tuv>
     </tu>
     <tu>
@@ -4681,8 +4681,8 @@
       <tuv xml:lang="EN-US">
         <seg>Water Pumpjack MK4</seg>
       </tuv>
-      <tuv xml:lang="JA" changeid="user" changedate="20170201T112854Z" creationid="user" creationdate="20170201T112854Z">
-        <seg>井戸4</seg>
+      <tuv xml:lang="JA" changeid="user" changedate="20170205T084329Z" creationid="user" creationdate="20170201T112854Z">
+        <seg>汲上機4</seg>
       </tuv>
     </tu>
     <tu>
@@ -4691,8 +4691,8 @@
       <tuv xml:lang="EN-US">
         <seg>Water Pumpjack MK5</seg>
       </tuv>
-      <tuv xml:lang="JA" changeid="user" changedate="20170201T112855Z" creationid="user" creationdate="20170201T112855Z">
-        <seg>井戸5</seg>
+      <tuv xml:lang="JA" changeid="user" changedate="20170205T084330Z" creationid="user" creationdate="20170201T112855Z">
+        <seg>汲上機5</seg>
       </tuv>
     </tu>
     <tu>
@@ -4821,8 +4821,8 @@
       <tuv xml:lang="EN-US">
         <seg>Water Pumpjacks Research</seg>
       </tuv>
-      <tuv xml:lang="JA" changeid="user" changedate="20170201T113005Z" creationid="user" creationdate="20170201T113005Z">
-        <seg>井戸の研究</seg>
+      <tuv xml:lang="JA" changeid="user" changedate="20170205T084339Z" creationid="user" creationdate="20170201T113005Z">
+        <seg>汲上機の研究</seg>
       </tuv>
     </tu>
     <tu>
@@ -9067,8 +9067,8 @@
       <tuv xml:lang="EN-US">
         <seg>Water bore</seg>
       </tuv>
-      <tuv xml:lang="JA" changeid="user" changedate="20170131T132056Z" creationid="user" creationdate="20170131T132056Z">
-        <seg>井戸掘り技術</seg>
+      <tuv xml:lang="JA" changeid="user" changedate="20170205T084257Z" creationid="user" creationdate="20170131T132056Z">
+        <seg>汲み上げ技術</seg>
       </tuv>
     </tu>
     <tu>
