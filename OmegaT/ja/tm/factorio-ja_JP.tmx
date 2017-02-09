@@ -6,7 +6,7 @@
  Release: Working copy
  Locales: en-US, ja-JP
  Exported by: Unregistered user
- Exported at: Tue, 31 Jan 2017 08:23:51 +0000 
+ Exported at: Thu, 09 Feb 2017 12:53:22 +0000 
 -->
 <tmx version="1.4">
     <header creationtoolversion="1.0.0" segtype="sentence" o-tmf="" creationtool="Loco" adminlang="en-US" srclang="en-US" datatype="" o-encoding="utf-8">
@@ -6274,7 +6274,7 @@
                <seg>Destroy 10 spawners by impact.</seg>
            </tuv> 
            <tuv xml:lang="ja-JP" datatype="plaintext">
-               <seg>衝撃で10個の巣を破壊する</seg>
+               <seg>10個の巣を車や戦車で破壊する</seg>
            </tuv> 
        </tu> 
        <tu tuid="2976"> 
@@ -6285,7 +6285,7 @@
                <seg>Destroy 100 trees by impact.</seg>
            </tuv> 
            <tuv xml:lang="ja-JP" datatype="plaintext">
-               <seg>衝撃で100本の木を破壊する</seg>
+               <seg>100本の木を車や戦車で破壊する</seg>
            </tuv> 
        </tu> 
        <tu tuid="2977"> 
@@ -6318,7 +6318,7 @@
                <seg>Supply the player by logistic robot.</seg>
            </tuv> 
            <tuv xml:lang="ja-JP" datatype="plaintext">
-               <seg>物流ロボットでプレイヤーにアイテムを供給する</seg>
+               <seg>物流ロボットでアイテムを取り寄せる</seg>
            </tuv> 
        </tu> 
        <tu tuid="2987"> 
@@ -7264,7 +7264,7 @@
                <seg>Supply the player with 10k items delivered by logistic robots.</seg>
            </tuv> 
            <tuv xml:lang="ja-JP" datatype="plaintext">
-               <seg>ロボットで1万個のアイテムをプレーヤーに供給する</seg>
+               <seg>物流ロボットで1万個のアイテムを取り寄せる</seg>
            </tuv> 
        </tu> 
        <tu tuid="3099"> 
@@ -11532,17 +11532,6 @@
            </tuv> 
            <tuv xml:lang="ja-JP" datatype="plaintext">
                <seg>製作速度</seg>
-           </tuv> 
-       </tu> 
-       <tu tuid="762"> 
-           <note>
-               Context: description:smelting-speed 
-           </note> 
-           <tuv xml:lang="en-US" datatype="plaintext">
-               <seg>Smelting speed</seg>
-           </tuv> 
-           <tuv xml:lang="ja-JP" datatype="plaintext">
-               <seg>精錬速度</seg>
            </tuv> 
        </tu> 
        <tu tuid="763"> 
@@ -18988,7 +18977,7 @@
                <seg>Logistics</seg>
            </tuv> 
            <tuv xml:lang="ja-JP" datatype="plaintext">
-               <seg>物流</seg>
+               <seg>自動供給</seg>
            </tuv> 
        </tu> 
        <tu tuid="2139"> 
@@ -21889,17 +21878,6 @@
                <seg>&lt;player&gt; - 指定したプレイヤーをBAN解除します。</seg>
            </tuv> 
        </tu> 
-       <tu tuid="1099"> 
-           <note>
-               Context: gui-package-list:up-from-dir 
-           </note> 
-           <tuv xml:lang="en-US" datatype="plaintext">
-               <seg>__1__/..</seg>
-           </tuv> 
-           <tuv xml:lang="ja-JP" datatype="plaintext">
-               <seg>__1__ /..</seg>
-           </tuv> 
-       </tu> 
        <tu tuid="2752"> 
            <note>
                Context: command-help:bans 
@@ -21909,6 +21887,17 @@
            </tuv> 
            <tuv xml:lang="ja-JP" datatype="plaintext">
                <seg>- BANされているプレイヤーの一覧を出力します。</seg>
+           </tuv> 
+       </tu> 
+       <tu tuid="1099"> 
+           <note>
+               Context: gui-package-list:up-from-dir 
+           </note> 
+           <tuv xml:lang="en-US" datatype="plaintext">
+               <seg>__1__/..</seg>
+           </tuv> 
+           <tuv xml:lang="ja-JP" datatype="plaintext">
+               <seg>__1__ /..</seg>
            </tuv> 
        </tu> 
        <tu tuid="2754"> 
@@ -22265,7 +22254,7 @@
                <seg>Auto trash</seg>
            </tuv> 
            <tuv xml:lang="ja-JP" datatype="plaintext">
-               <seg>自動ゴミ</seg>
+               <seg>自動廃棄</seg>
            </tuv> 
        </tu> 
        <tu tuid="2812"> 
@@ -23398,7 +23387,7 @@
                <seg>__1__ is being dropped from the game</seg>
            </tuv> 
            <tuv xml:lang="ja-JP" datatype="plaintext">
-               <seg>__1__ がゲームから抜けようとしています</seg>
+               <seg>__1__ との接続が確立できません</seg>
            </tuv> 
        </tu> 
        <tu tuid="6033"> 
@@ -23420,7 +23409,7 @@
                <seg>Saving the map for __1__</seg>
            </tuv> 
            <tuv xml:lang="ja-JP" datatype="plaintext">
-               <seg>マップ__1__を保存しています</seg>
+               <seg>__1__ がマップを保存しています</seg>
            </tuv> 
        </tu> 
        <tu tuid="6035"> 
@@ -24864,6 +24853,17 @@
            </tuv> 
            <tuv xml:lang="ja-JP" datatype="plaintext">
                <seg>認証サーバーで認証エラー: __1__。</seg>
+           </tuv> 
+       </tu> 
+       <tu tuid="6322"> 
+           <note>
+               Context: gui:licenses 
+           </note> 
+           <tuv xml:lang="en-US" datatype="plaintext">
+               <seg>Licenses</seg>
+           </tuv> 
+           <tuv xml:lang="ja-JP" datatype="plaintext">
+               <seg>承諾</seg>
            </tuv> 
        </tu> 
        <tu tuid="1261"> 

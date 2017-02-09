@@ -1001,8 +1001,8 @@
       <tuv xml:lang="EN-US">
         <seg>Basic circuit board</seg>
       </tuv>
-      <tuv xml:lang="JA" changeid="user" changedate="20170131T133317Z" creationid="user" creationdate="20170131T133303Z">
-        <seg>簡易基板</seg>
+      <tuv xml:lang="JA" changeid="user" changedate="20170208T141639Z" creationid="user" creationdate="20170131T133303Z">
+        <seg>基礎基板</seg>
       </tuv>
     </tu>
     <tu>
@@ -6061,8 +6061,8 @@
       <tuv xml:lang="EN-US">
         <seg>Galena (Lead ore)</seg>
       </tuv>
-      <tuv xml:lang="JA" changeid="t.yarimizu" changedate="20170131T083039Z" creationid="t.yarimizu" creationdate="20170131T083039Z">
-        <seg>鉛鉱石</seg>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T130156Z" creationid="t.yarimizu" creationdate="20170131T083039Z">
+        <seg>ガレナ</seg>
       </tuv>
     </tu>
     <tu>
@@ -13549,6 +13549,2516 @@
       </tuv>
       <tuv xml:lang="JA" changeid="user" changedate="20170201T152913Z" creationid="user" creationdate="20170201T152913Z">
         <seg>鈍化地雷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">entity-name/creative-mode_alien-attractor-proxy-large</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Large alien attractor</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T131115Z" creationid="user" creationdate="20170209T131115Z">
+        <seg>大型エイリアンアトラクター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">entity-name/creative-mode_alien-attractor-proxy-medium</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Medium alien attractor</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T131110Z" creationid="user" creationdate="20170209T131110Z">
+        <seg>中型エイリアンアトラクター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">entity-name/creative-mode_alien-attractor-proxy-small</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Small alien attractor</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T131101Z" creationid="user" creationdate="20170209T131101Z">
+        <seg>小型エイリアンアトラクター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">entity-name/creative-mode_autofill-requester-chest</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Autofill requester chest</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T130634Z" creationid="user" creationdate="20170209T130634Z">
+        <seg>オートフィル要求チェスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">entity-name/creative-mode_configurable-energy-interface</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Configurable energy interface</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T131043Z" creationid="user" creationdate="20170209T131043Z">
+        <seg>構成可能な電力インターフェイス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">entity-name/creative-mode_configurable-super-boiler</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Configurable super boiler</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T130847Z" creationid="user" creationdate="20170209T130847Z">
+        <seg>構成可能なスーパーボイラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">entity-name/creative-mode_creative-cargo-wagon</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Creative cargo wagon</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T130724Z" creationid="user" creationdate="20170209T130724Z">
+        <seg>クリエイティブ貨物車両</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">entity-name/creative-mode_creative-chest</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Creative chest</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T130604Z" creationid="user" creationdate="20170209T130604Z">
+        <seg>クリエイティブチェスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">entity-name/creative-mode_creative-provider-chest</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Creative provider chest</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T130618Z" creationid="user" creationdate="20170209T130618Z">
+        <seg>クリエイティブ供給チェスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">entity-name/creative-mode_duplicating-cargo-wagon</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Duplicating cargo wagon</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T130732Z" creationid="user" creationdate="20170209T130732Z">
+        <seg>デュプリケート貨物車両</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">entity-name/creative-mode_duplicating-chest</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Duplicating chest</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T130643Z" creationid="user" creationdate="20170209T130643Z">
+        <seg>デュプリケートチェスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">entity-name/creative-mode_duplicating-provider-chest</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Duplicating provider chest</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T130651Z" creationid="user" creationdate="20170209T130651Z">
+        <seg>デュプリケート供給チェスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">entity-name/creative-mode_duplicator</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Matter duplicator</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T130946Z" creationid="user" creationdate="20170209T130946Z">
+        <seg>物質デュプリケーター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">entity-name/creative-mode_energy-source</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Active energy source</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T131002Z" creationid="user" creationdate="20170209T131002Z">
+        <seg>アクティブ電力ソース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">entity-name/creative-mode_energy-void</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Active energy void</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T131019Z" creationid="user" creationdate="20170209T131019Z">
+        <seg>アクティブ電力ヴォイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">entity-name/creative-mode_fluid-source</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Fluid source</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T130811Z" creationid="user" creationdate="20170209T130811Z">
+        <seg>流体ソース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">entity-name/creative-mode_fluid-void</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Fluid void</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T130814Z" creationid="user" creationdate="20170209T130814Z">
+        <seg>流体ヴォイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">entity-name/creative-mode_item-source</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Matter source</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T130939Z" creationid="user" creationdate="20170209T130939Z">
+        <seg>物質ソース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">entity-name/creative-mode_item-void</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Matter void</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T130951Z" creationid="user" creationdate="20170209T130951Z">
+        <seg>物質ヴォイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">entity-name/creative-mode_passive-energy-source</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Passive energy source</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T131007Z" creationid="user" creationdate="20170209T131007Z">
+        <seg>パッシブ電力ソース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">entity-name/creative-mode_passive-energy-void</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Passive energy void</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T131025Z" creationid="user" creationdate="20170209T131025Z">
+        <seg>パッシブ電力ヴォイド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">entity-name/creative-mode_super-beacon</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Super beacon</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T131119Z" creationid="user" creationdate="20170209T131119Z">
+        <seg>スーパービーコン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">entity-name/creative-mode_super-boiler</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Super boiler</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T130817Z" creationid="user" creationdate="20170209T130817Z">
+        <seg>スーパーボイラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">entity-name/creative-mode_super-construction-robot</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Super construction robot</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T130751Z" creationid="user" creationdate="20170209T130751Z">
+        <seg>スーパー建造ロボット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">entity-name/creative-mode_super-cooler</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Super cooler</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T130820Z" creationid="user" creationdate="20170209T130820Z">
+        <seg>スーパークーラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">entity-name/creative-mode_super-electric-pole</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Super electric pole</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T131048Z" creationid="user" creationdate="20170209T131048Z">
+        <seg>スーパー電柱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">entity-name/creative-mode_super-loader</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Super loader</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T130713Z" creationid="user" creationdate="20170209T130713Z">
+        <seg>スーパーローダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">entity-name/creative-mode_super-logistic-robot</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Super logistic robot</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T130746Z" creationid="user" creationdate="20170209T130746Z">
+        <seg>スーパー物流ロボット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">entity-name/creative-mode_super-radar</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Super radar</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T131054Z" creationid="user" creationdate="20170209T131054Z">
+        <seg>スーパーレーダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">entity-name/creative-mode_super-roboport</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Super roboport</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T130803Z" creationid="user" creationdate="20170209T130803Z">
+        <seg>スーパーロボットステーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">entity-name/creative-mode_void-cargo-wagon</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Void cargo wagon</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T130737Z" creationid="user" creationdate="20170209T130737Z">
+        <seg>ヴォイド貨物車両</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">entity-name/creative-mode_void-requester-chest</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Void requester chest</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T130659Z" creationid="user" creationdate="20170209T130659Z">
+        <seg>ヴォイド要求チェスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">entity-name/creative-mode_void-storage-chest</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Void storage chest</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T130708Z" creationid="user" creationdate="20170209T130708Z">
+        <seg>ヴォイド貯蔵チェスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Creative Mode</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T151946Z" creationid="user" creationdate="20170209T151946Z">
+        <seg>ｸﾘｴｲﾃｨﾌﾞﾓｰﾄﾞﾒﾆｭｰ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Access right</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T145007Z" creationid="user" creationdate="20170209T144446Z">
+        <seg>アクセス許可</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-admin-only</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Admin only [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T144451Z" creationid="user" creationdate="20170209T144451Z">
+        <seg>管理者のみ [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-build-options-admin-only-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Only admins can apply build options on players.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T151058Z" creationid="user" creationdate="20170209T151058Z">
+        <seg>管理者のみが設置オプションをプレイヤーに適用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-build-options-free</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Free [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T144559Z" creationid="user" creationdate="20170209T144559Z">
+        <seg>誰でも [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-build-options-free-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Everyone can access all build options.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T151229Z" creationid="user" creationdate="20170209T151229Z">
+        <seg>誰でも設置オプションを変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-build-options-no-team-options</prop>
+      <tuv xml:lang="EN-US">
+        <seg>No team option [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T152231Z" creationid="user" creationdate="20170209T151125Z">
+        <seg>ﾁｰﾑｵﾌﾟｼｮﾝを使用しない [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-build-options-no-team-options-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Non-admin players can access the normal build options but cannot change build team.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T151215Z" creationid="user" creationdate="20170209T151215Z">
+        <seg>一般プレイヤーは通常の設置オプションにアクセスできますが、チームの設置オプションは変更できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-creator-magic-wand</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Magic wand - Creator</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T152216Z" creationid="user" creationdate="20170209T151249Z">
+        <seg>ﾏｼﾞｯｸﾜﾝﾄﾞ - ｸﾘｴｲﾀｰ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-creator-magic-wand-admin-only-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Only admins can use the Creator magic wand.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T151359Z" creationid="user" creationdate="20170209T151316Z">
+        <seg>管理者のみがマジックワンド - クリエイターを使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-creator-magic-wand-free</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Free [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T144600Z" creationid="user" creationdate="20170209T144600Z">
+        <seg>誰でも [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-creator-magic-wand-free-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Everyone can use the Creator magic wand.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T151421Z" creationid="user" creationdate="20170209T151327Z">
+        <seg>誰でもマジックワンド - クリエイターを使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-global-cheat-admin-only-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Only admins can change settings for the current game.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T151015Z" creationid="user" creationdate="20170209T151015Z">
+        <seg>管理者のみが現在のゲームの設定を変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-global-cheat-free</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Free [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T144558Z" creationid="user" creationdate="20170209T144558Z">
+        <seg>誰でも [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-global-cheat-free-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Everyone can change settings for the current game.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T151035Z" creationid="user" creationdate="20170209T151035Z">
+        <seg>誰でも現在のゲームの設定を変更できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-healer-magic-wand</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Magic wand - Healer</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T152203Z" creationid="user" creationdate="20170209T151347Z">
+        <seg>ﾏｼﾞｯｸﾜﾝﾄﾞ - ﾋｰﾗｰ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-healer-magic-wand-admin-only-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Only admins can use the Healer magic wand.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T151415Z" creationid="user" creationdate="20170209T151415Z">
+        <seg>管理者のみがマジックワンド - ヒーラーを使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-healer-magic-wand-free</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Free [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T144601Z" creationid="user" creationdate="20170209T144601Z">
+        <seg>誰でも [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-healer-magic-wand-free-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Everyone can use the Healer magic wand.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T151429Z" creationid="user" creationdate="20170209T151429Z">
+        <seg>誰でもマジックワンド - ヒーラーを使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-modding-admin-only-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Only admins can access the modding menu.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T151539Z" creationid="user" creationdate="20170209T151539Z">
+        <seg>管理者のみがMOD製作メニューにアクセスできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-modding-free</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Free [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T144603Z" creationid="user" creationdate="20170209T144603Z">
+        <seg>誰でも [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-modding-free-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Everyone can access the modding menu.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T151552Z" creationid="user" creationdate="20170209T151552Z">
+        <seg>誰でもMOD製作メニューにアクセスできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-modifier-magic-wand</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Magic wand - Modifier</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T152155Z" creationid="user" creationdate="20170209T151448Z">
+        <seg>ﾏｼﾞｯｸﾜﾝﾄﾞ - ﾓﾃﾞｨﾌｧｲｱ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-modifier-magic-wand-admin-only-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Only admins can use the Modifier magic wand.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T151459Z" creationid="user" creationdate="20170209T151459Z">
+        <seg>管理者のみがマジックワンド - モディファイアを使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-modifier-magic-wand-free</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Free [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T144602Z" creationid="user" creationdate="20170209T144602Z">
+        <seg>誰でも [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-modifier-magic-wand-free-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Everyone can use the Modifier magic wand.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T151510Z" creationid="user" creationdate="20170209T151510Z">
+        <seg>誰でもマジックワンド - モディファイアを使用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-personal-cheat-free</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Individual [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T150745Z" creationid="user" creationdate="20170209T150745Z">
+        <seg>自分自身 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-personal-cheat-free-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Non-admin players can apply cheats on him/herself.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T150844Z" creationid="user" creationdate="20170209T150810Z">
+        <seg>一般プレイヤーは自分自身にチートを適用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-surface-cheat-admin-only-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Only admins can apply cheats on surfaces.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T150921Z" creationid="user" creationdate="20170209T150921Z">
+        <seg>管理者のみがワールドにチートを適用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-surface-cheat-free-all-surfaces</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Free [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T144556Z" creationid="user" creationdate="20170209T144556Z">
+        <seg>誰でも [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-surface-cheat-free-all-surfaces-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Everyone can apply cheats on any surface.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T150958Z" creationid="user" creationdate="20170209T150958Z">
+        <seg>誰でも全ワールドにチートを適用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-surface-cheat-free-own-surface</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Current surface only [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T152235Z" creationid="user" creationdate="20170209T144548Z">
+        <seg>現在のﾜｰﾙﾄﾞのみ [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-surface-cheat-free-own-surface-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Non-admin players can apply cheats on his/her current surface.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T150944Z" creationid="user" creationdate="20170209T150944Z">
+        <seg>一般プレイヤーは現在のワールドにチートを適用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-team-cheat-admin-only-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Only admins can apply cheats on teams.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T150828Z" creationid="user" creationdate="20170209T150828Z">
+        <seg>管理者のみがチームにチートを適用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-team-cheat-free-all-teams</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Free [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T144520Z" creationid="user" creationdate="20170209T144520Z">
+        <seg>誰でも [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-team-cheat-free-all-teams-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Everyone can apply cheats on any team.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T144541Z" creationid="user" creationdate="20170209T144541Z">
+        <seg>誰でも全チームにチートを適用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-team-cheat-free-own-team</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Own team only [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T152255Z" creationid="user" creationdate="20170209T144505Z">
+        <seg>ﾁｰﾑのみ [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_access-right-team-cheat-free-own-team-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Non-admin players can apply cheats on his/her own team.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T150905Z" creationid="user" creationdate="20170209T150905Z">
+        <seg>一般プレイヤーは自身が所属するチームにチートを適用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_admin</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Admin</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T145832Z" creationid="user" creationdate="20170209T141554Z">
+        <seg>権限管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_all-events</prop>
+      <tuv xml:lang="EN-US">
+        <seg>All events</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T152439Z" creationid="user" creationdate="20170209T152439Z">
+        <seg>全てのｲﾍﾞﾝﾄ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_all-technologies</prop>
+      <tuv xml:lang="EN-US">
+        <seg>All technologies</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T132358Z" creationid="user" creationdate="20170209T132358Z">
+        <seg>全ての研究</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_alternate-mode</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Alternate mode</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T145134Z" creationid="user" creationdate="20170209T145134Z">
+        <seg>代替ﾓｰﾄﾞ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_always-day</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Always day [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143301Z" creationid="user" creationdate="20170209T143301Z">
+        <seg>常に日中 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_always-day-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Stops the day-night cycle. Only daytime will be available.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143333Z" creationid="user" creationdate="20170209T143333Z">
+        <seg>昼夜のサイクルを止め、昼間だけとなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_ask-disable-creative-mode</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Disable Creative Mode?</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143924Z" creationid="user" creationdate="20170209T143924Z">
+        <seg>クリエイティブモードを無効にしますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_ask-enable-creative-mode</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Enable Creative Mode?</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T151953Z" creationid="user" creationdate="20170209T143838Z">
+        <seg>ｸﾘｴｲﾃｨﾌﾞﾓｰﾄﾞを有効にしますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_ask-permanently-disable-creative-mode</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Permanently Disable Creative Mode?</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T150309Z" creationid="user" creationdate="20170209T150309Z">
+        <seg>永続的にクリエイティブモードを無効にしますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_build-active</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Active [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T145243Z" creationid="user" creationdate="20170209T145243Z">
+        <seg>稼働 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_build-active-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Inactive cars cannot move, inactive inserters cannot work, inactive player characters cannot perform most of the tasks.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T150503Z" creationid="user" creationdate="20170209T145405Z">
+        <seg>非稼働の自動車は動きません。非稼働のインサータは働きません。非稼働のプレイヤーは作業を実行できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_build-destructible</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Destructible [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T145220Z" creationid="user" creationdate="20170209T145220Z">
+        <seg>解体可能 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_build-distance</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Build distance [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T134308Z" creationid="user" creationdate="20170209T134308Z">
+        <seg>設置距離 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_build-distance-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Number of additional tiles for building entities from your current character. No cheat is 0. Default cheat is __1__.\n__2__\n__3__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T141245Z" creationid="user" creationdate="20170209T135001Z">
+        <seg>設置物を置ける距離を延長します。チート無効時は0、チート有効時のデフォルトは__1__です。\n__2__\n__3__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_build-full-health</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Full health [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T145516Z" creationid="user" creationdate="20170209T145516Z">
+        <seg>全回復 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_build-full-health-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Whether the entity will have full health. If false, the health point of the entity will be lowered to 1.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T145641Z" creationid="user" creationdate="20170209T145641Z">
+        <seg>エンティティの耐久値を最大にします。無効にした場合は耐久値を1にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_build-minable</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Minable [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T145206Z" creationid="user" creationdate="20170209T145206Z">
+        <seg>採掘可能 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_build-operable</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Operable [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T145155Z" creationid="user" creationdate="20170209T145155Z">
+        <seg>操作可能 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_build-options</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Build Options</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T141505Z" creationid="user" creationdate="20170209T141505Z">
+        <seg>設置ｵﾌﾟｼｮﾝ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_build-rotatable</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Rotatable [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T145200Z" creationid="user" creationdate="20170209T145200Z">
+        <seg>回転可能 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_build-rotatable-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Whether the entity can be rotated by using the R key.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T145709Z" creationid="user" creationdate="20170209T145709Z">
+        <seg>エンティティをRキーで回転できるようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_build-team</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Team [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T152536Z" creationid="user" creationdate="20170209T145149Z">
+        <seg>ﾁｰﾑ [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_build-team-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Which team the entity will belong to.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T152617Z" creationid="user" creationdate="20170209T152617Z">
+        <seg>エンティティが所属するチームです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_cannot-apply-this-cheat-before-respawned</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Cannot apply this cheat before player is respawned.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T152903Z" creationid="user" creationdate="20170209T152903Z">
+        <seg>プレイヤーが居ない場合は適用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_cannot-apply-this-cheat-in-god-mode</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Cannot apply this cheat in god mode.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T152831Z" creationid="user" creationdate="20170209T152831Z">
+        <seg>ゴッドモードでは適用できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_categories</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Categories</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T152408Z" creationid="user" creationdate="20170209T152408Z">
+        <seg>ｶﾃｺﾞﾘ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_character-health-bonus</prop>
+      <tuv xml:lang="EN-US">
+        <seg>* Health bonus [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143518Z" creationid="user" creationdate="20170209T143058Z">
+        <seg>* 耐久力ﾎﾞｰﾅｽ [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_character-health-bonus-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Additional health for each character in the team.\n__1__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143123Z" creationid="user" creationdate="20170209T143123Z">
+        <seg>チームに所属しているキャラクターの耐久力を増加させます。\n__1__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_character-inventory-bonus</prop>
+      <tuv xml:lang="EN-US">
+        <seg>* Inventory bonus [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143551Z" creationid="user" creationdate="20170209T133951Z">
+        <seg>* ｲﾝﾍﾞﾝﾄﾘﾎﾞｰﾅｽ [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_character-inventory-bonus-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Additional inventory slots for all players in the team.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T134019Z" creationid="user" creationdate="20170209T134019Z">
+        <seg>チームに所属する全てのプレイヤーのインベントリを拡張します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_cheat-mode</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Cheat mode [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T141651Z" creationid="user" creationdate="20170209T141651Z">
+        <seg>ﾁｰﾄﾓｰﾄﾞ [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_cheat-mode-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Makes hand crafting free and instant.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T141735Z" creationid="user" creationdate="20170209T141735Z">
+        <seg>素手でノーコストでアイテムを作れるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_cheats</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Cheats</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T141537Z" creationid="user" creationdate="20170209T141347Z">
+        <seg>ﾁｰﾄ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_close</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Close</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T144315Z" creationid="user" creationdate="20170209T144315Z">
+        <seg>閉じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_crafting-speed</prop>
+      <tuv xml:lang="EN-US">
+        <seg>* Crafting speed [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T135517Z" creationid="user" creationdate="20170209T135517Z">
+        <seg>製作速度 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_crafting-speed-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Additional manual crafting speed for your current character.\n__1__\n__2__\n__3__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T142447Z" creationid="user" creationdate="20170209T135532Z">
+        <seg>手作業による製作速度を増加させます。\n__1__\n__2__\n__3__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_creative-tools-recipes</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Creative tools' recipes [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T141120Z" creationid="user" creationdate="20170209T133704Z">
+        <seg>ｸﾘｴｲﾃｨﾌﾞﾂｰﾙﾚｼﾋﾟ[?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_creative-tools-recipes-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>For crafting the god-like creative tools.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T133803Z" creationid="user" creationdate="20170209T133803Z">
+        <seg>神のようなクリエイティブツールを作れるようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_destroy-all-enemies</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Kill all enemies [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143358Z" creationid="user" creationdate="20170209T143358Z">
+        <seg>全ての敵を殺す [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_disable-all</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Disable All</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143819Z" creationid="user" creationdate="20170209T143819Z">
+        <seg>全て無効</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_disable-creative-mode</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Disable Creative Mode</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T151659Z" creationid="user" creationdate="20170209T151647Z">
+        <seg>無効にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_disable-creative-mode-info</prop>
+      <tuv xml:lang="EN-US">
+        <seg>You can still enable it later with the following command:</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T150337Z" creationid="user" creationdate="20170209T150244Z">
+        <seg>後で次のコマンドを実行して有効にできます。コマンド:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_disable-creative-mode-permanently</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Disable permanently</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T151714Z" creationid="user" creationdate="20170209T151714Z">
+        <seg>永続的に無効にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_disable-creative-mode-title</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Disable Creative Mode [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T152341Z" creationid="user" creationdate="20170209T151637Z">
+        <seg>ｸﾘｴｲﾃｨﾌﾞﾓｰﾄﾞの無効化 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_dont-enable-creative-mode-button</prop>
+      <tuv xml:lang="EN-US">
+        <seg>No [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143902Z" creationid="user" creationdate="20170209T143902Z">
+        <seg>いいえ [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_dont-enable-creative-mode-button-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>You can use command to enable it later.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T150319Z" creationid="user" creationdate="20170209T150319Z">
+        <seg>後でコマンドを実行して有効にできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_dont-enable-creative-mode-permanently-button</prop>
+      <tuv xml:lang="EN-US">
+        <seg>No permanently [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T150136Z" creationid="user" creationdate="20170209T150136Z">
+        <seg>永続的にいいえ [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_dont-enable-creative-mode-permanently-button-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>No one can enable it anymore in this game.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T150221Z" creationid="user" creationdate="20170209T150221Z">
+        <seg>このゲームでは二度と有効にできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_dont-generate-enemy</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Don't generate enemy [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143427Z" creationid="user" creationdate="20170209T143427Z">
+        <seg>敵を生成しない [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_enable-all</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Enable All</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143817Z" creationid="user" creationdate="20170209T143817Z">
+        <seg>全て有効</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_enable-creative-mode-with-cheats-button</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Yes, with cheats [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T152106Z" creationid="user" creationdate="20170209T143858Z">
+        <seg>はい。(ﾁｰﾄも有効) [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_events</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Events</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T145949Z" creationid="user" creationdate="20170209T144346Z">
+        <seg>ｲﾍﾞﾝﾄ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_game-speed</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Game speed [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T145426Z" creationid="user" creationdate="20170209T145426Z">
+        <seg>ｹﾞｰﾑ速度 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_game-speed-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Speed to update the map. Default is __2__ (60 UPS). Minimum is __1__.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T145511Z" creationid="user" creationdate="20170209T145511Z">
+        <seg>このワールドの速度を更新します。デフォルトは__2__(60UPS)で、最小は__1__です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_global-cheats</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Game Settings</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T141532Z" creationid="user" creationdate="20170209T141449Z">
+        <seg>ｹﾞｰﾑ設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_god-mode</prop>
+      <tuv xml:lang="EN-US">
+        <seg>* God mode [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143614Z" creationid="user" creationdate="20170209T133908Z">
+        <seg>* ｺﾞｯﾄﾞﾓｰﾄﾞ [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_god-mode-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Extracts your soul from the body, allowing you to fly over obstacles and no one will be able to hurt you.\nBut please note that some of the cheats do not work in god mode.\n__1__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T141110Z" creationid="user" creationdate="20170209T140142Z">
+        <seg>身体から魂を抜き出し、無敵状態にて障害物を無視した移動ができるようになります。\n但し、いくつかのチートはゴッドモード中は使用できません。\n__1__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_health-bonus</prop>
+      <tuv xml:lang="EN-US">
+        <seg>* Health bonus [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143619Z" creationid="user" creationdate="20170209T135704Z">
+        <seg>* 耐久力ﾎﾞｰﾅｽ [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_health-bonus-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Additional health for your current character.\n__1__\n__2__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T135717Z" creationid="user" creationdate="20170209T135717Z">
+        <seg>耐久力を増加させます。\n__1__\n__2__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_hide</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Hide</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T150109Z" creationid="user" creationdate="20170209T150109Z">
+        <seg>非表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_inserter-capacity-bonus</prop>
+      <tuv xml:lang="EN-US">
+        <seg>* Inserter capacity bonus [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143513Z" creationid="user" creationdate="20170209T143129Z">
+        <seg>* ｲﾝｻｰﾀ容量ﾎﾞｰﾅｽ [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_inserter-capacity-bonus-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Additional number of items that can be transferred by non-stack inserters.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143209Z" creationid="user" creationdate="20170209T143209Z">
+        <seg>非スタックインサータが一度に運べるアイテム数を増加させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_instant-blueprint</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Instant blueprint [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T142305Z" creationid="user" creationdate="20170209T142305Z">
+        <seg>即時建設計画 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_instant-deconstruction</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Instant deconstruction [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T142318Z" creationid="user" creationdate="20170209T142318Z">
+        <seg>即時解体 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_instant-request</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Instant request [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T142200Z" creationid="user" creationdate="20170209T142200Z">
+        <seg>即時要求 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_instant-research</prop>
+      <tuv xml:lang="EN-US">
+        <seg>* Instant research [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T132234Z" creationid="user" creationdate="20170209T132234Z">
+        <seg>研究の即時完了 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_instant-research-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>All researches are free and instant.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T132334Z" creationid="user" creationdate="20170209T132334Z">
+        <seg>ノーコストで研究が即座に完了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_instant-trash</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Instant trash [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143656Z" creationid="user" creationdate="20170209T142225Z">
+        <seg>即時ｺﾞﾐ [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_interfaces</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Interfaces</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T145945Z" creationid="user" creationdate="20170209T144350Z">
+        <seg>ｲﾝﾀｰﾌｪｲｽ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_inventory-bonus</prop>
+      <tuv xml:lang="EN-US">
+        <seg>* Inventory bonus [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143637Z" creationid="user" creationdate="20170209T135549Z">
+        <seg>* ｲﾝﾍﾞﾝﾄﾘﾎﾞｰﾅｽ [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_inventory-bonus-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Additional inventory slots for your current character.\n__1__\n__2__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T135611Z" creationid="user" creationdate="20170209T135611Z">
+        <seg>インベントリを拡張します。\n__1__\n__2__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_invincible-player</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Invincible player [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T141746Z" creationid="user" creationdate="20170209T141746Z">
+        <seg>無敵化 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_invincible-player-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>No one can hurt your current character.\n__1__\n__2__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T141816Z" creationid="user" creationdate="20170209T141816Z">
+        <seg>ダメージを受けなくなります。\n__1__\n__2__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_item-drop-distance</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Item drop distance [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143647Z" creationid="user" creationdate="20170209T134357Z">
+        <seg>ｱｲﾃﾑ投棄距離 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_item-drop-distance-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Number of additional tiles for dropping items from your current character. No cheat is 0. Default cheat is __1__.\n__2__\n__3__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T141256Z" creationid="user" creationdate="20170209T134802Z">
+        <seg>アイテムを捨てられる距離を延長します。チート無効時は0、チート有効時のデフォルトは__1__です。\n__2__\n__3__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_item-group</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Item group [?]:</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T151736Z" creationid="user" creationdate="20170209T151736Z">
+        <seg>アイテムグループ [?]:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_item-pickup-distance</prop>
+      <tuv xml:lang="EN-US">
+        <seg>* Item pickup distance [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143642Z" creationid="user" creationdate="20170209T135037Z">
+        <seg>* ｱｲﾃﾑ拾得距離 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_item-pickup-distance-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Number of additional tiles for reaching and picking up items to your current character.\n__1__\n__2__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T135131Z" creationid="user" creationdate="20170209T135051Z">
+        <seg>アイテムを拾える距離を延長します。\n__1__\n__2__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_keep-last-item</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Keep last item [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143709Z" creationid="user" creationdate="20170209T141849Z">
+        <seg>ｱｲﾃﾑ保持 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_keep-last-item-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Makes sure you will keep the last item when you build something manually.\n__1__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143719Z" creationid="user" creationdate="20170209T141936Z">
+        <seg>手動で設置した際に持っているアイテムが減らなくなります。\n__1__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_keep-last-item-tooltip2</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Known issue: it does not work on tiles, wires, or if you ues the rail planner to build rails.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T142122Z" creationid="user" creationdate="20170209T142122Z">
+        <seg>既知の問題: 床材・ケーブル・運行計画によるレールの設置の場合には当機能が働きません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_kill</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Kill</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T150635Z" creationid="user" creationdate="20170209T150635Z">
+        <seg>破壊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_loaders-recipes</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Loaders' recipes [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T141128Z" creationid="user" creationdate="20170209T132817Z">
+        <seg>ﾛｰﾀﾞｰﾚｼﾋﾟ [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_loaders-recipes-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>For crafting the original loaders - entities that was cancelled because of being too powerful.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T133415Z" creationid="user" creationdate="20170209T133340Z">
+        <seg>あまりにも高性能すぎて無効にされたローダーを作れるようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_loot-pickup-distance</prop>
+      <tuv xml:lang="EN-US">
+        <seg>* Loot pickup distance [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T140722Z" creationid="user" creationdate="20170209T140722Z">
+        <seg>* 収集範囲 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_loot-pickup-distance-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Number of additional tiles for automatically picking up loots to your current character.\n__1__\n__2__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T142728Z" creationid="user" creationdate="20170209T140804Z">
+        <seg>自動収集範囲を広げます。\n__1__\n__2__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_magic-wand</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Magic Wand</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T141518Z" creationid="user" creationdate="20170209T141518Z">
+        <seg>ﾏｼﾞｯｸﾜﾝﾄﾞ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_magic-wand-short-creator</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Creator</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T145143Z" creationid="user" creationdate="20170209T145143Z">
+        <seg>ｸﾘｴｲﾀｰ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_magic-wand-short-healer</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Healer</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T145140Z" creationid="user" creationdate="20170209T145140Z">
+        <seg>ﾋｰﾗｰ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_magic-wand-short-modifier</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Modifier</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T145138Z" creationid="user" creationdate="20170209T145138Z">
+        <seg>ﾓﾃﾞｨﾌｧｲｱ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_main-menu-open-button-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Creative Mode menu</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T141417Z" creationid="user" creationdate="20170209T141417Z">
+        <seg>クリエイティブモードメニュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_mining-speed</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Mining speed [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T135413Z" creationid="user" creationdate="20170209T135413Z">
+        <seg>採掘速度 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_mining-speed-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Additional manual mining speed for your current character. No cheat is 0. Default cheat is __1__.\n__2__\n__3__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T141313Z" creationid="user" creationdate="20170209T135456Z">
+        <seg>採掘速度を増加させます。チート無効時は0、チート有効時のデフォルトは__1__です。\n__2__\n__3__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_modding</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Modding</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T141548Z" creationid="user" creationdate="20170209T141548Z">
+        <seg>MOD製作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_no</prop>
+      <tuv xml:lang="EN-US">
+        <seg>No</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143723Z" creationid="user" creationdate="20170209T143723Z">
+        <seg>いいえ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_off</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Off</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143733Z" creationid="user" creationdate="20170209T143733Z">
+        <seg>ｵﾌ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_on</prop>
+      <tuv xml:lang="EN-US">
+        <seg>On</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143736Z" creationid="user" creationdate="20170209T143729Z">
+        <seg>ｵﾝ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_options</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Options</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T152426Z" creationid="user" creationdate="20170209T152426Z">
+        <seg>ｵﾌﾟｼｮﾝ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_overall-access-rights</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Overall access rights</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T152312Z" creationid="user" creationdate="20170209T151558Z">
+        <seg>ｱｸｾｽ権を一括変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_overall-access-rights-admin-only</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Admin only</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T144636Z" creationid="user" creationdate="20170209T144636Z">
+        <seg>管理者のみ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_overall-access-rights-default</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Default</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T152334Z" creationid="user" creationdate="20170209T151618Z">
+        <seg>ﾃﾞﾌｫﾙﾄ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_peaceful-mode</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Peaceful mode [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143458Z" creationid="user" creationdate="20170209T143337Z">
+        <seg>ﾋﾟｰｽﾌﾙﾓｰﾄﾞ [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_permanently-disable-creative-mode-info</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Warning: once disabled, it cannot be enabled again for the current game.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T144008Z" creationid="user" creationdate="20170209T144008Z">
+        <seg>警告: 一度無効にしたらこのワールドでは二度と有効にできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_personal-cheats</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Personal Cheats</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T141342Z" creationid="user" creationdate="20170209T141342Z">
+        <seg>個人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_player-name-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Player: __1__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T141621Z" creationid="user" creationdate="20170209T141621Z">
+        <seg>プレイヤー: __1__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_pollution</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Pollution [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143446Z" creationid="user" creationdate="20170209T143446Z">
+        <seg>汚染度 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_quick-action-active</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Active</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T145901Z" creationid="user" creationdate="20170209T145901Z">
+        <seg>稼働</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_quick-action-destructible</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Destructible</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T145903Z" creationid="user" creationdate="20170209T145903Z">
+        <seg>解体可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_quick-action-full-health</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Full health</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T145910Z" creationid="user" creationdate="20170209T145910Z">
+        <seg>全回復</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_quick-action-minable</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Minable</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T145905Z" creationid="user" creationdate="20170209T145905Z">
+        <seg>採掘可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_quick-action-operable</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Operable</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T144333Z" creationid="user" creationdate="20170209T144333Z">
+        <seg>操作可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_quick-action-rotatable</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Rotatable</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T144330Z" creationid="user" creationdate="20170209T144330Z">
+        <seg>回転可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_quick-action-team</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Team</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T145956Z" creationid="user" creationdate="20170209T144343Z">
+        <seg>ﾁｰﾑ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_quickbar-bonus</prop>
+      <tuv xml:lang="EN-US">
+        <seg>* Quickbar bonus [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143626Z" creationid="user" creationdate="20170209T135619Z">
+        <seg>* ｸｲｯｸﾊﾞｰﾎﾞｰﾅｽ [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_quickbar-bonus-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Additional quickbars for your current character.\n__1__\n__2__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T135651Z" creationid="user" creationdate="20170209T135651Z">
+        <seg>クイックバーを拡張します。\n__1__\n__2__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_quickbar-count</prop>
+      <tuv xml:lang="EN-US">
+        <seg>* Quickbar count [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143542Z" creationid="user" creationdate="20170209T134145Z">
+        <seg>* ｸｲｯｸﾊﾞｰの列数 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_quickbar-count-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Number of quickbars for each player in the team.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T134214Z" creationid="user" creationdate="20170209T134214Z">
+        <seg>チームに所属するプレイヤーのクイックバーの列数を設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_railgun-recipes</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Railgun recipes [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T141138Z" creationid="user" creationdate="20170209T133357Z">
+        <seg>ﾚｰﾙｶﾞﾝﾚｼﾋﾟ [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_railgun-recipes-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>For crafting the hidden railgun and railgun dart.\nNote: the railgun fire sound is very loud.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T133634Z" creationid="user" creationdate="20170209T133634Z">
+        <seg>隠し武器であるレールガンとその弾薬を作れるようにします。\nメモ: レールガンの発射音はとても大きいです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_reach-distance</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Reach distance [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T135408Z" creationid="user" creationdate="20170209T134314Z">
+        <seg>回収距離 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_reach-distance-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Number of additional tiles for reaching entities from your current character. No cheat is 0. Default cheat is __1__.\n__2__\n__3__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T141239Z" creationid="user" creationdate="20170209T135229Z">
+        <seg>設置物を回収できる距離を延長します。チート無効時は0、チート有効時のデフォルトは__1__です。\n__2__\n__3__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_refresh</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T145009Z" creationid="user" creationdate="20170209T145009Z">
+        <seg>再読込</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_remove</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T145036Z" creationid="user" creationdate="20170209T145036Z">
+        <seg>削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_remove-all</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Remove All</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T145057Z" creationid="user" creationdate="20170209T143825Z">
+        <seg>全て削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_remove-all-enemies</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Remove all enemies [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143412Z" creationid="user" creationdate="20170209T143412Z">
+        <seg>全ての敵を消去する [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_resource-reach-distance</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Resource reach distance [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T134933Z" creationid="user" creationdate="20170209T132609Z">
+        <seg>資源採取距離 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_resource-reach-distance-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Number of additional tiles for reaching reousrces from your current character. No cheat is 0. Default cheat is __1__.\n__2__\n__3__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T141250Z" creationid="user" creationdate="20170209T134816Z">
+        <seg>資源を採取できる距離を延長します。チート無効時は0、チート有効時のデフォルトは__1__です。\n__2__\n__3__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_running-speed</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Running speed [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T135500Z" creationid="user" creationdate="20170209T135500Z">
+        <seg>移動速度 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_running-speed-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Additional running speed for your current character. No cheat is 0. Default cheat is __1__.\n__2__\n__3__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T141318Z" creationid="user" creationdate="20170209T135512Z">
+        <seg>移動速度を増加させます。チート無効時は0、チート有効時のデフォルトは__1__です。\n__2__\n__3__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_search-events</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Search events</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T144423Z" creationid="user" creationdate="20170209T144423Z">
+        <seg>イベント検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_select-all</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Select All</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143821Z" creationid="user" creationdate="20170209T143821Z">
+        <seg>全て選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_show</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Show</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T150106Z" creationid="user" creationdate="20170209T150106Z">
+        <seg>表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_stack-inserter-capacity-bonus</prop>
+      <tuv xml:lang="EN-US">
+        <seg>* Stack inserter capacity bonus [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143506Z" creationid="user" creationdate="20170209T143217Z">
+        <seg>* ｽﾀｯｸｲﾝｻｰﾀ容量ﾎﾞｰﾅｽ [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_stack-inserter-capacity-bonus-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Additional number of items that can be transferred by stack inserters.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143231Z" creationid="user" creationdate="20170209T143231Z">
+        <seg>スタックインサータが一度に運べるアイテム数を増加させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_standard-mode</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Standard mode</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T152624Z" creationid="user" creationdate="20170209T145122Z">
+        <seg>通常ﾓｰﾄﾞ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_surface-cheats</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Surface Cheats</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T141528Z" creationid="user" creationdate="20170209T141428Z">
+        <seg>ﾜｰﾙﾄﾞ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_surface-name-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Surface: __1__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143253Z" creationid="user" creationdate="20170209T143253Z">
+        <seg>ワールド: __1__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_team-build-distance</prop>
+      <tuv xml:lang="EN-US">
+        <seg>* Build distance [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T132742Z" creationid="user" creationdate="20170209T132742Z">
+        <seg>* 設置距離 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_team-build-distance-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Number of additional tiles for building entities from each character in the team.\n__1__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T142909Z" creationid="user" creationdate="20170209T142909Z">
+        <seg>チームに所属しているキャラクターの設置物を置ける距離を延長します。\n__1__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_team-cheats</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Team Cheats</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T141525Z" creationid="user" creationdate="20170209T141336Z">
+        <seg>ﾁｰﾑ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_team-crafting-speed</prop>
+      <tuv xml:lang="EN-US">
+        <seg>* Crafting speed [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T133932Z" creationid="user" creationdate="20170209T133932Z">
+        <seg>* 製作速度 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_team-crafting-speed-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Additional manual crafting speed for each character in the team.\n__1__\n__2__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T142925Z" creationid="user" creationdate="20170209T142555Z">
+        <seg>チームに所属しているキャラクターの手作業による製作速度を増加させます。\n__1__\n__2__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_team-item-drop-distance</prop>
+      <tuv xml:lang="EN-US">
+        <seg>* Item drop distance [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143604Z" creationid="user" creationdate="20170209T142337Z">
+        <seg>* ｱｲﾃﾑ投棄距離 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_team-item-drop-distance-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Number of additional tiles for dropping items from each character in the team.\n__1__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T142914Z" creationid="user" creationdate="20170209T142818Z">
+        <seg>チームに所属しているキャラクターのアイテムを捨てられる距離を延長します。\n__1__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_team-item-pickup-distance</prop>
+      <tuv xml:lang="EN-US">
+        <seg>* Item pickup distance [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143559Z" creationid="user" creationdate="20170209T142405Z">
+        <seg>* ｱｲﾃﾑ拾得距離 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_team-item-pickup-distance-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Number of additional tiles reaching and picking up items to each character in the team.\n__1__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T142916Z" creationid="user" creationdate="20170209T142754Z">
+        <seg>チームに所属しているキャラクターのアイテムを拾える距離を延長します。\n__1__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_team-loot-pickup-distance</prop>
+      <tuv xml:lang="EN-US">
+        <seg>* Loot pickup distance [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T142412Z" creationid="user" creationdate="20170209T142412Z">
+        <seg>* 収集範囲 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_team-loot-pickup-distance-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Number of additional tiles automatically picking up loots to each character in the team.\n__1__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T142918Z" creationid="user" creationdate="20170209T142724Z">
+        <seg>チームに所属しているキャラクターの自動収集範囲を広げます。\n__1__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_team-mining-speed</prop>
+      <tuv xml:lang="EN-US">
+        <seg>* Mining speed [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T133915Z" creationid="user" creationdate="20170209T133915Z">
+        <seg>* 採掘速度 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_team-mining-speed-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Additional manual mining speed for each character in the team.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T142920Z" creationid="user" creationdate="20170209T142648Z">
+        <seg>チームに所属しているプキャラクターの採掘速度を増加させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_team-name-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Team: __1__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T140157Z" creationid="user" creationdate="20170209T140157Z">
+        <seg>チーム:__1__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_team-reach-distance</prop>
+      <tuv xml:lang="EN-US">
+        <seg>* Reach distance [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T132750Z" creationid="user" creationdate="20170209T132750Z">
+        <seg>* 回収距離 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_team-reach-distance-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Number of additional tiles for reaching entities from each character in the team.\n__1__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143025Z" creationid="user" creationdate="20170209T143025Z">
+        <seg>チームに所属しているキャラクターの設置物を回収できる距離を延長します。\n__1__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_team-resource-reach-distance</prop>
+      <tuv xml:lang="EN-US">
+        <seg>* Resource reach distance [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T142344Z" creationid="user" creationdate="20170209T132617Z">
+        <seg>* 資源採取距離 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_team-resource-reach-distance-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Number of additional tiles for reaching resources from each character in the team.\n__1__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T142912Z" creationid="user" creationdate="20170209T142842Z">
+        <seg>チームに所属しているキャラクターの資源を採取できる距離を延長します。\n__1__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_team-running-speed</prop>
+      <tuv xml:lang="EN-US">
+        <seg>* Running speed [?]</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T133925Z" creationid="user" creationdate="20170209T133925Z">
+        <seg>* 移動速度 [?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_team-running-speed-tooltip</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Additional running speed for each character in the team.\n__1__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T142922Z" creationid="user" creationdate="20170209T142622Z">
+        <seg>チームに所属しているキャラクターの移動速度を増加させます。\n__1__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_unlock</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Unlock</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143741Z" creationid="user" creationdate="20170209T143741Z">
+        <seg>解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">gui/creative-mode_yes</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T143722Z" creationid="user" creationdate="20170209T143722Z">
+        <seg>はい</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">item-name/creative-mode_alien-attractor-large</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Large alien attractor</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T131319Z" creationid="user" creationdate="20170209T131319Z">
+        <seg>大型エイリアンアトラクター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">item-name/creative-mode_alien-attractor-medium</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Medium alien attractor</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T131315Z" creationid="user" creationdate="20170209T131315Z">
+        <seg>中型エイリアンアトラクター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">item-name/creative-mode_alien-attractor-small</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Small alien attractor</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T131312Z" creationid="user" creationdate="20170209T131312Z">
+        <seg>小型エイリアンアトラクター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">item-name/creative-mode_magic-wand-creator</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Magic wand - Creator</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T131201Z" creationid="user" creationdate="20170209T131201Z">
+        <seg>マジックワンド - クリエイター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">item-name/creative-mode_magic-wand-healer</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Magic wand - Healer</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T131210Z" creationid="user" creationdate="20170209T131210Z">
+        <seg>マジックワンド - ヒーラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">item-name/creative-mode_magic-wand-modifier</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Magic wand - Modifier</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T131229Z" creationid="user" creationdate="20170209T131229Z">
+        <seg>マジックワンド - モディファイア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">item-name/creative-mode_super-clean-module</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Super clean module</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T131404Z" creationid="user" creationdate="20170209T131404Z">
+        <seg>スーパークリーンモジュール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">item-name/creative-mode_super-consumption-module</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Super consumption module</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T131503Z" creationid="user" creationdate="20170209T131445Z">
+        <seg>スーパーエネルギー効率低下モジュール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">item-name/creative-mode_super-effectivity-module</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Super effectivity module</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T131345Z" creationid="user" creationdate="20170209T131345Z">
+        <seg>スーパーエネルギー効率モジュール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">item-name/creative-mode_super-pollution-module</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Super pollution module</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T131451Z" creationid="user" creationdate="20170209T131451Z">
+        <seg>スーパー汚染モジュール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">item-name/creative-mode_super-productivity-module</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Super productivity module</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T131351Z" creationid="user" creationdate="20170209T131351Z">
+        <seg>スーパー生産力モジュール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">item-name/creative-mode_super-slow-module</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Super slow module</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T131510Z" creationid="user" creationdate="20170209T131426Z">
+        <seg>スーパー生産速度低下モジュール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">item-name/creative-mode_super-speed-module</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Super speed module</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T131332Z" creationid="user" creationdate="20170209T131332Z">
+        <seg>スーパー生産速度モジュール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">message/creative-mode_available_commands</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Available commands:</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T144101Z" creationid="user" creationdate="20170209T144101Z">
+        <seg>使用可能なコマンド:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">message/creative-mode_cheat-mode-disabled-by-admin</prop>
+      <tuv xml:lang="EN-US">
+        <seg>__1__ has disabled cheat mode for you.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T144236Z" creationid="user" creationdate="20170209T144236Z">
+        <seg>__1__ があなたのチートモードを無効にしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">message/creative-mode_cheat-mode-enabled-by-admin</prop>
+      <tuv xml:lang="EN-US">
+        <seg>__1__ has enabled cheat mode for you.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T144227Z" creationid="user" creationdate="20170209T144227Z">
+        <seg>__1__ があなたのチートモードを有効にしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">message/creative-mode_config-updated</prop>
+      <tuv xml:lang="EN-US">
+        <seg>__1__ has updated config.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T144125Z" creationid="user" creationdate="20170209T144125Z">
+        <seg>__1__ は設定を更新しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">message/creative-mode_failed-to-apply-to-single-player-admin</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Failed to apply to __1__. Reason: __2__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T144147Z" creationid="user" creationdate="20170209T144147Z">
+        <seg>__1__ を適用できませんでした。 理由: __2__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">message/creative-mode_invincible-player-disabled-by-admin</prop>
+      <tuv xml:lang="EN-US">
+        <seg>__1__ has disabled invincible player for you.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T144314Z" creationid="user" creationdate="20170209T144314Z">
+        <seg>__1__ があなたの無敵化を無効にしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">message/creative-mode_invincible-player-enabled-by-admin</prop>
+      <tuv xml:lang="EN-US">
+        <seg>__1__ has enabled invincible player for you.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T144244Z" creationid="user" creationdate="20170209T144244Z">
+        <seg>__1__ があなたの無敵化を有効にしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">creative-mode_0.2.6.cfg</prop>
+      <prop type="id">message/creative-mode_player-is-offline</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Player is offline.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170209T144055Z" creationid="user" creationdate="20170209T144055Z">
+        <seg>プレイヤーが接続していません。</seg>
       </tuv>
     </tu>
   </body>
