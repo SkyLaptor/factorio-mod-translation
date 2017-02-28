@@ -37,6 +37,7 @@ Diesel_Barrelling_forKSPower_0.1.1.cfg
 CharcoalBurner_1.0.5.cfg
 Warehousing_0.0.11.cfg
 additional-turret_0.1.1.cfg
+Additional-Turret_0.1.3.cfg
 blueprint-string_4.0.0.cfg
 air-filtering_0.4.3.cfg
 Aircraft_1.2.0.cfg
@@ -45,3 +46,4 @@ SimpleSaplings_0.14.4.cfg
 StickyNotes_2.1.1.cfg
 StickyNotes_2.1.3.cfg
 color-picker_0.2.1.cfg
+Personal_Spawns_0.14.2.cfg

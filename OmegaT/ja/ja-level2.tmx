@@ -6,6 +6,966 @@
 <!-- Default translations -->
 <!-- Alternative translations -->
     <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">controls/at_button_opener =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Turret Slot Manager On/Off</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T125032Z" creationid="user" creationdate="20170228T125032Z">
+        <seg>タレットスロット管理のON/OFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">damage-type-name/sore-acid =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Acidic compound</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T131938Z" creationid="user" creationdate="20170228T131938Z">
+        <seg>酸性化合物ダメージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">entity-description/at_A1_i1 =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Request chest for a howitzer shell. Only registered howitzer shell can be inserted, and unusable capsules will be deleted.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T132745Z" creationid="user" creationdate="20170228T132745Z">
+        <seg>長距離迫撃砲用の要求チェストです。大型迫撃砲弾のみ登録可能であり使用出来ないものは削除されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">entity-description/at_A1_s1 =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Radar works.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T124937Z" creationid="user" creationdate="20170228T124937Z">
+        <seg>レーダー稼働中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">entity-description/at_A2_i1 =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Request chest for a howitzer shell. Only registered howitzer shell can be inserted, and unusable capsules will be deleted.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T133013Z" creationid="user" creationdate="20170228T132809Z">
+        <seg>実験型長距離迫撃砲用の弾倉です。実験型大型迫撃砲弾のみ登録可能であり使用出来ないものは削除されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">entity-description/at_A2_s1 =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>High-performance radar works.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T124947Z" creationid="user" creationdate="20170228T124947Z">
+        <seg>高性能レーダー稼働中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">entity-description/at_CR_i1 =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Request chest for a shell. Only registered shells can be inserted, and unusable shells will be deleted. Please check and control with Ctrl + Q.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T133050Z" creationid="user" creationdate="20170228T132933Z">
+        <seg>デストロイヤー用の弾倉です。砲弾のみ登録可能であり、使用出来ないものは削除されます。\nCtrl+Qで設定を確認出来ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">entity-description/at_CR_i2 =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Request chest for a rocket. Only registered rockets can be inserted, and unusable rockets will be deleted. Please check and control with Ctrl + Q.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T133112Z" creationid="user" creationdate="20170228T133112Z">
+        <seg>デストロイヤー用の弾倉です。ミサイルのみ登録可能であり、使用出来ないものは削除されます。\nCtrl+Qで設定を確認出来ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">entity-description/at_LC_i1 =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Request chest for a capsule. Only registered capsules can be inserted, and unusable capsules will be deleted. Please check and control with Ctrl + Q.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T133020Z" creationid="user" creationdate="20170228T132910Z">
+        <seg>カプセルフラワー用の弾倉です。カプセルのみフィルター登録可能であり、使用出来ないものは削除されます。\nCtrl+Qで設定を確認出来ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">entity-name/at-acidthrower-turret =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Acidthrower turret</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T132003Z" creationid="user" creationdate="20170228T132003Z">
+        <seg>強酸放射タレット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">entity-name/at-advanced-laser =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Advanced laser turret</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T132014Z" creationid="user" creationdate="20170228T132014Z">
+        <seg>発展型レーザータレット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">entity-name/at-beam-turret-mk1 =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Prototype electron beam turret</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T132007Z" creationid="user" creationdate="20170228T132007Z">
+        <seg>試作型電子ビームタレット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">entity-name/at-beam-turret-mk2 =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Enhanced electron beam turret</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T132010Z" creationid="user" creationdate="20170228T132010Z">
+        <seg>強化型電子ビームタレット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">entity-name/at-cannon-turret-mk1 =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Cannon Turret</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T131940Z" creationid="user" creationdate="20170228T131940Z">
+        <seg>キャノンタレット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">entity-name/at-cannon-turret-mk2 =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Cannon Turret mk2</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T131943Z" creationid="user" creationdate="20170228T131943Z">
+        <seg>キャノンタレット2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">entity-name/at-rocket-turret-mk1 =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Rocket turret</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T131950Z" creationid="user" creationdate="20170228T131950Z">
+        <seg>ミサイルタレット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">entity-name/at-rocket-turret-mk2 =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Rocket turret mk2</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T131958Z" creationid="user" creationdate="20170228T131955Z">
+        <seg>ミサイルタレット2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">entity-name/at_A1_b =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Heavy howitzer</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T132022Z" creationid="user" creationdate="20170228T132022Z">
+        <seg>長距離迫撃砲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">entity-name/at_A1_i1 =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Heavy howitzer inventory</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T132055Z" creationid="user" creationdate="20170228T132055Z">
+        <seg>長距離迫撃砲の弾倉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">entity-name/at_A1_s1 =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Heavy howitzer radar</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T132122Z" creationid="user" creationdate="20170228T132037Z">
+        <seg>長距離迫撃砲のレーダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">entity-name/at_A2_b =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Experimental heavy howitzer</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T132108Z" creationid="user" creationdate="20170228T132108Z">
+        <seg>実験型長距離迫撃砲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">entity-name/at_A2_i1 =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Experimental heavy howitzer inventory</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T132128Z" creationid="user" creationdate="20170228T132128Z">
+        <seg>実験型長距離迫撃砲の弾倉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">entity-name/at_A2_s1 =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Experimental heavy howitzer radar</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T132124Z" creationid="user" creationdate="20170228T132124Z">
+        <seg>実験型長距離迫撃砲のレーダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">entity-name/at_CR_b =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Destroyer</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T122857Z" creationid="user" creationdate="20170228T122857Z">
+        <seg>デストロイヤー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">entity-name/at_CR_i1 =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Destroyer inventory -Shell</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T132158Z" creationid="user" creationdate="20170228T124117Z">
+        <seg>デストロイヤーの砲弾弾倉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">entity-name/at_CR_i2 =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Destroyer inventory -Rocket</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T132204Z" creationid="user" creationdate="20170228T124134Z">
+        <seg>デストロイヤーのミサイル弾倉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">entity-name/at_CR_s1 =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Destroyer -Shell</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T132224Z" creationid="user" creationdate="20170228T132224Z">
+        <seg>デストロイヤーの砲塔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">entity-name/at_CR_s2 =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Destroyer -Rocket</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T132252Z" creationid="user" creationdate="20170228T132252Z">
+        <seg>デストロイヤーのミサイル砲台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">entity-name/at_LC_b =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Capsule flower</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T122836Z" creationid="user" creationdate="20170228T122836Z">
+        <seg>カプセルフラワー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">entity-name/at_LC_i1 =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Capsule flower inventory</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T132133Z" creationid="user" creationdate="20170228T122854Z">
+        <seg>カプセルフラワーの弾倉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">entity-name/at_LC_s =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Capsule flower bundle turret</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T132150Z" creationid="user" creationdate="20170228T132150Z">
+        <seg>カプセルフラワー防衛タレット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">fluid-name/piranha-solution =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Piranha solution</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T131921Z" creationid="user" creationdate="20170228T131921Z">
+        <seg>ピラニア溶液</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">gui/advanced_settings =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Advanced Settings</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T125054Z" creationid="user" creationdate="20170228T125054Z">
+        <seg>詳細設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">gui/advanced_settings_agree =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Agree</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T125113Z" creationid="user" creationdate="20170228T125113Z">
+        <seg>了解</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">gui/advanced_settings_warning =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Changing this option may cause the UPS to drop.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T132627Z" creationid="user" creationdate="20170228T132627Z">
+        <seg>このオプションを変更するとフレームレートが落ちる可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">gui/artillery_max_range =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>__1__ maximum range = __2__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T125045Z" creationid="user" creationdate="20170228T125045Z">
+        <seg>__1__ 最大射程: __2__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">gui/request_apply =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Apply</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T125124Z" creationid="user" creationdate="20170228T125124Z">
+        <seg>適用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">gui/request_apply_stop =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>STOP</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T125128Z" creationid="user" creationdate="20170228T125128Z">
+        <seg>停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">gui/request_apply_view =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>View area</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T131655Z" creationid="user" creationdate="20170228T131655Z">
+        <seg>表示エリア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">gui/request_config_frame =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Adjust the construction limits of the turret</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T132425Z" creationid="user" creationdate="20170228T132425Z">
+        <seg>タレットの設置数を制限します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">gui/request_count =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>COUNT :</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T131649Z" creationid="user" creationdate="20170228T131649Z">
+        <seg>数:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">gui/request_radio_all =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Change the request slot of the selected all turrets at the bottom</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T132547Z" creationid="user" creationdate="20170228T132535Z">
+        <seg>全てのタレットが要求する弾種を変更します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">gui/request_radio_near =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Change the request slot of the selected nearby turrets at the bottom</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T132545Z" creationid="user" creationdate="20170228T132509Z">
+        <seg>付近にあるタレットが要求する弾種を変更します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">gui/request_set_inventory =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Set __1__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T132441Z" creationid="user" creationdate="20170228T125119Z">
+        <seg>__1__を設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">item-description/Artillery_mk1_Ammo =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Only for Heavy howitzer shell. (Explosion - 15 range)</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T124840Z" creationid="user" creationdate="20170228T124750Z">
+        <seg>長距離迫撃砲用の砲弾です。(炸裂範囲:15)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">item-description/Artillery_mk2_Ammo =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Only for Experimental heavy howitzer shell. (Explosion - 30 range)</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T124835Z" creationid="user" creationdate="20170228T124835Z">
+        <seg>実験型長距離迫撃砲用の砲弾です。(炸裂範囲:30)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">item-description/at-beam-turret-mk1 =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>It has a bit of a problem, and can be upgraded to Enhanced electron beam turret.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T124918Z" creationid="user" creationdate="20170228T124918Z">
+        <seg>未完成品です。強化型電子ビームタレットにアップグレードしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">item-description/at-beam-turret-mk2 =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Sparks occur when hit.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T124923Z" creationid="user" creationdate="20170228T124923Z">
+        <seg>標的に当たった際に火花が発生します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">item-description/at_A1_b =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Spawner and worm attack only, Up to 50 can be built.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T124715Z" creationid="user" creationdate="20170228T124715Z">
+        <seg>巣やワームに対してのみ砲撃を行います。50基まで設置可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">item-description/at_A2_b =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Spawner and worm attack only, Up to 10 can be built. Receive a fire support request.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T124726Z" creationid="user" creationdate="20170228T124726Z">
+        <seg>巣やワームに対してのみ砲撃を行います。10基まで設置可能です。\n砲撃支援要請を受け付けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">item-description/at_CR_b =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Up to 100 can be built.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T124730Z" creationid="user" creationdate="20170228T124730Z">
+        <seg>100基まで設置可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">item-description/at_LC_b =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Up to 100 can be built.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T124730Z" creationid="user" creationdate="20170228T124730Z">
+        <seg>100基まで設置可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">item-description/target-marker =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Requires up to 5 times fire support to Experimental heavy howitzer.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T133211Z" creationid="user" creationdate="20170228T133211Z">
+        <seg>実験型長距離迫撃砲に砲撃支援を要請します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">item-name/Artillery_mk1_Ammo =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Heavy howitzer shell</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T131835Z" creationid="user" creationdate="20170228T131835Z">
+        <seg>大型迫撃砲弾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">item-name/Artillery_mk2_Ammo =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Experimental heavy howitzer shell</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T131858Z" creationid="user" creationdate="20170228T131858Z">
+        <seg>実験型大型迫撃砲弾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">item-name/acid-multiple-rocket =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Acid multiple rocket</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T131814Z" creationid="user" creationdate="20170228T131814Z">
+        <seg>強酸斉射ミサイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">item-name/acid-rocket =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Acid rocket</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T131808Z" creationid="user" creationdate="20170228T131808Z">
+        <seg>強酸ミサイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">item-name/acid-thrower-ammo =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Acidthrower ammo</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T131822Z" creationid="user" creationdate="20170228T131822Z">
+        <seg>強酸放射器用薬液</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">item-name/cluster-cannon-shell =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Cluster cannon shell</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T131727Z" creationid="user" creationdate="20170228T131727Z">
+        <seg>クラスター砲弾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">item-name/dummy =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Ammo</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T131917Z" creationid="user" creationdate="20170228T131917Z">
+        <seg>弾薬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">item-name/explosive-multiple-rocket =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Explosive multiple rocket</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T131804Z" creationid="user" creationdate="20170228T131804Z">
+        <seg>炸裂斉射ミサイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">item-name/fire-cannon-shell =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Fire cannon shell</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T131733Z" creationid="user" creationdate="20170228T131733Z">
+        <seg>焼夷砲弾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">item-name/fire-cluster-cannon-shell =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Fire cluster cannon shell</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T131739Z" creationid="user" creationdate="20170228T131739Z">
+        <seg>焼夷クラスター砲弾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">item-name/piranha-core =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Piranha core</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T131909Z" creationid="user" creationdate="20170228T131909Z">
+        <seg>ピラニアコア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">item-name/small-cannon-shell =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Small cannon shell</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T131701Z" creationid="user" creationdate="20170228T131701Z">
+        <seg>小型砲弾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">item-name/small-explosive-cannon-shell =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Small explosive cannon shell</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T131713Z" creationid="user" creationdate="20170228T131713Z">
+        <seg>小型炸裂砲弾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">item-name/small-explosive-rocket =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Small explosive rocket</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T131751Z" creationid="user" creationdate="20170228T131751Z">
+        <seg>小型炸裂ミサイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">item-name/small-rocket =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Small rocket</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T131741Z" creationid="user" creationdate="20170228T131741Z">
+        <seg>小型ミサイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">item-name/target-marker =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Marking capsule</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T131905Z" creationid="user" creationdate="20170228T131905Z">
+        <seg>砲撃支援マーカー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">message/built_overflow =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>__1__ can build up to __2__.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T125041Z" creationid="user" creationdate="20170228T125041Z">
+        <seg>__1__ は__2__の上に設置できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">modifier-description/at-acidthrower-turret-attack-bonus =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Acidthrower turret damage bonus: +__1__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T132333Z" creationid="user" creationdate="20170228T132333Z">
+        <seg>強酸放射タレットダメージボーナス: +__1__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">modifier-description/at-cannon-turret-mk1-attack-bonus =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Cannon turret damage bonus: +__1__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T132302Z" creationid="user" creationdate="20170228T132302Z">
+        <seg>キャノンタレットダメージボーナス: +__1__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">modifier-description/at-cannon-turret-mk2-attack-bonus =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Cannon turret mk2 damage bonus: +__1__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T132305Z" creationid="user" creationdate="20170228T132305Z">
+        <seg>キャノンタレット2ダメージボーナス: +__1__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">modifier-description/at-rocket-turret-mk1-attack-bonus =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Rocket turret damage bonus: +__1__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T132311Z" creationid="user" creationdate="20170228T132311Z">
+        <seg>ミサイルタレットダメージボーナス: +__1__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">modifier-description/at-rocket-turret-mk2-attack-bonus =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Rocket turret mk2 damage bonus: +__1__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T132314Z" creationid="user" creationdate="20170228T132314Z">
+        <seg>ミサイルタレット2ダメージボーナス: +__1__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">modifier-description/at_CR_turret-attack-bonus =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Destroyer cannon damage bonus: +__1__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T132322Z" creationid="user" creationdate="20170228T132322Z">
+        <seg>デストロイヤーキャノンダメージボーナス: +__1__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">modifier-description/at_CR_turretr-attack-bonus =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Destroyer rocket damage bonus: +__1__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T132329Z" creationid="user" creationdate="20170228T132329Z">
+        <seg>デストロイヤーミサイルダメージボーナス: +__1__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">recipe-name/piranha-core =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Piranha core</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T131924Z" creationid="user" creationdate="20170228T131924Z">
+        <seg>ピラニアコア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">technology-name/acid-thrower =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Acidthrower turret</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T132348Z" creationid="user" creationdate="20170228T124328Z">
+        <seg>強酸放射タレットの開発</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">technology-name/advanced-laser-research =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Advanced laser turret</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T124504Z" creationid="user" creationdate="20170228T124415Z">
+        <seg>発展型レーザータレットの開発</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">technology-name/artillery-1-range =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Heavy howitzer range</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T124555Z" creationid="user" creationdate="20170228T124555Z">
+        <seg>長距離迫撃砲射程延長</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">technology-name/artillery-2-range =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Experimental heavy howitzer range</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T124846Z" creationid="user" creationdate="20170228T124625Z">
+        <seg>実験型長距離迫撃砲射程延長</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">technology-name/artillery-set =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Howitzer</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T124532Z" creationid="user" creationdate="20170228T124344Z">
+        <seg>長距離迫撃砲の開発</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">technology-name/beam-research =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Electron beam turret</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T124510Z" creationid="user" creationdate="20170228T124408Z">
+        <seg>電子ビームタレットの開発</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">technology-name/capsule-turret =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Capsule flower</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T124514Z" creationid="user" creationdate="20170228T124349Z">
+        <seg>カプセルフラワーの開発</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">technology-name/piranha-research =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Piranha solution</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T124422Z" creationid="user" creationdate="20170228T124422Z">
+        <seg>ピラニア溶液の製造</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">technology-name/small-rockets =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Small rockets</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T124653Z" creationid="user" creationdate="20170228T124643Z">
+        <seg>小型ミサイルの開発</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">technology-name/small-shells =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Small cannon shells</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T124650Z" creationid="user" creationdate="20170228T124632Z">
+        <seg>小型砲弾の開発</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">technology-name/thrower-turret-damage =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Acidthrower turret damage</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T124538Z" creationid="user" creationdate="20170228T124437Z">
+        <seg>強酸放射タレットダメージ強化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">technology-name/turret-mk1-damage =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Turret mk1 damage</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T124455Z" creationid="user" creationdate="20170228T124426Z">
+        <seg>タレット1ダメージ強化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">technology-name/turret-mk1-unlock =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Turret mk1</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T124300Z" creationid="user" creationdate="20170228T124300Z">
+        <seg>タレット1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">technology-name/turret-mk2-damage =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Turret mk2 damage</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T124457Z" creationid="user" creationdate="20170228T124428Z">
+        <seg>タレット2ダメージ強化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">technology-name/turret-mk2-unlock =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Turret mk2</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T124304Z" creationid="user" creationdate="20170228T124304Z">
+        <seg>タレット2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">technology-name/turret-mk3-damage =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Turret mk3 damage</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T124500Z" creationid="user" creationdate="20170228T124430Z">
+        <seg>タレット3ダメージ強化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">technology-name/turret-mk3-unlock =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Turret mk3</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T124313Z" creationid="user" creationdate="20170228T124313Z">
+        <seg>タレット3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Additional-Turret_0.1.3.cfg</prop>
+      <prop type="id">technology-name/upgrade-shells =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Upgrade small shells</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T124702Z" creationid="user" creationdate="20170228T124702Z">
+        <seg>小型砲弾の改良</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">Aircraft_1.2.0.cfg</prop>
       <prop type="id">entity-description/cargo-plane</prop>
       <tuv xml:lang="EN-US">
@@ -873,6 +1833,56 @@
       </tuv>
       <tuv xml:lang="JA" changeid="user" changedate="20170228T055919Z" creationid="user" creationdate="20170228T055919Z">
         <seg>風力発電機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Personal_Spawns_0.14.2.cfg</prop>
+      <prop type="id">entity-name/personal-spawn-marker =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Personal Spawn</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T110038Z" creationid="user" creationdate="20170228T105929Z">
+        <seg>個人用復活地点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Personal_Spawns_0.14.2.cfg</prop>
+      <prop type="id">item-description/personal-spawn-marker-item =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>A spawn point just for you!</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T110118Z" creationid="user" creationdate="20170228T110005Z">
+        <seg>自分専用の復活地点を設定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Personal_Spawns_0.14.2.cfg</prop>
+      <prop type="id">item-name/personal-spawn-marker-item =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Personal Spawn</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T110055Z" creationid="user" creationdate="20170228T110055Z">
+        <seg>個人用復活地点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Personal_Spawns_0.14.2.cfg</prop>
+      <prop type="id">technology-description/personal-spawns-technology =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Unlock Personal Spawns</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T110138Z" creationid="user" creationdate="20170228T110138Z">
+        <seg>自分専用の復活地点を設定できるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Personal_Spawns_0.14.2.cfg</prop>
+      <prop type="id">technology-name/personal-spawns-technology =</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Personal Spawns</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T110046Z" creationid="user" creationdate="20170228T110046Z">
+        <seg>個人用復活地点の設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -4727,6 +5737,16 @@
     </tu>
     <tu>
       <prop type="file">angelslogistics_0.1.1.cfg</prop>
+      <prop type="id">entity-name/angels-blue-loader</prop>
+      <tuv xml:lang="EN-US">
+        <seg>__ENTITY__express-loader__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T115700Z" creationid="user" creationdate="20170228T115700Z">
+        <seg>__ENTITY__express-loader__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">angelslogistics_0.1.1.cfg</prop>
       <prop type="id">entity-name/angels-construction-robot</prop>
       <tuv xml:lang="EN-US">
         <seg>Construction Robot</seg>
@@ -4763,6 +5783,26 @@
       </tuv>
       <tuv xml:lang="JA" changeid="user" changedate="20170227T140141Z" creationid="user" creationdate="20170227T140141Z">
         <seg>原油要求チェスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">angelslogistics_0.1.1.cfg</prop>
+      <prop type="id">entity-name/angels-red-loader</prop>
+      <tuv xml:lang="EN-US">
+        <seg>__ENTITY__fast-loader__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T115658Z" creationid="user" creationdate="20170228T115658Z">
+        <seg>__ENTITY__fast-loader__</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">angelslogistics_0.1.1.cfg</prop>
+      <prop type="id">entity-name/angels-yellow-loader</prop>
+      <tuv xml:lang="EN-US">
+        <seg>__ENTITY__loader__</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T115656Z" creationid="user" creationdate="20170228T115656Z">
+        <seg>__ENTITY__loader__</seg>
       </tuv>
     </tu>
     <tu>
@@ -18542,8 +19582,8 @@
       <tuv xml:lang="EN-US">
         <seg>Bauxite (Aluminium ore)</seg>
       </tuv>
-      <tuv xml:lang="JA" changeid="user" changedate="20170212T020634Z" creationid="user" creationdate="20170131T125139Z">
-        <seg>ボーキサイト</seg>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T161038Z" creationid="user" creationdate="20170131T125139Z">
+        <seg>アルミ鉱石</seg>
       </tuv>
     </tu>
     <tu>
@@ -18652,8 +19692,8 @@
       <tuv xml:lang="EN-US">
         <seg>Cobaltite</seg>
       </tuv>
-      <tuv xml:lang="JA" changeid="user" changedate="20170212T020644Z" creationid="user" creationdate="20170131T125150Z">
-        <seg>コバルタイト</seg>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T161054Z" creationid="user" creationdate="20170131T125150Z">
+        <seg>コバルト鉱石</seg>
       </tuv>
     </tu>
     <tu>
@@ -18948,8 +19988,8 @@
       <tuv xml:lang="EN-US">
         <seg>Galena (Lead ore)</seg>
       </tuv>
-      <tuv xml:lang="JA" changeid="user" changedate="20170212T020621Z" creationid="user" creationdate="20170131T125110Z">
-        <seg>ガレナ</seg>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T161033Z" creationid="user" creationdate="20170131T125110Z">
+        <seg>鉛鉱石</seg>
       </tuv>
     </tu>
     <tu>
@@ -19278,8 +20318,8 @@
       <tuv xml:lang="EN-US">
         <seg>Rutile (Titanium ore)</seg>
       </tuv>
-      <tuv xml:lang="JA" changeid="user" changedate="20170212T020637Z" creationid="user" creationdate="20170131T125144Z">
-        <seg>ルチル</seg>
+      <tuv xml:lang="JA" changeid="user" changedate="20170228T161041Z" creationid="user" creationdate="20170131T125144Z">
+        <seg>チタン鉱石</seg>
       </tuv>
     </tu>
     <tu>
